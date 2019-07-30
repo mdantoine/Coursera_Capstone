@@ -1,0 +1,1003 @@
+,Restaurant,Borough,Neighborhood,Postcode,CUISINE DESCRIPTION,GRADE,Address,Coordinates,latitude,longitude
+0,MORRIS PARK BAKE SHOP,BRONX,MORRIS PARK AVE,10462,Bakery,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+1,WENDY'S,BROOKLYN,FLATBUSH AVENUE,11225,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+2,DJ REYNOLDS PUB AND RESTAURANT,MANHATTAN,WEST   57 STREET,10019,Irish,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+3,RIVIERA CATERERS,BROOKLYN,STILLWELL AVENUE,11224,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+4,BRUNOS ON THE BOULEVARD,QUEENS,ASTORIA BOULEVARD,11369,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+5,WILKEN'S FINE FOOD,BROOKLYN,AVENUE U,11234,Delicatessen,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+6,TASTE THE TROPICS ICE CREAM,BROOKLYN,NOSTRAND AVENUE,11226,"Ice Cream, Gelato, Yogurt, Ices",A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+7,WILD ASIA,BRONX,SOUTHERN BOULEVARD,10460,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+8,1 EAST 66TH STREET KITCHEN,MANHATTAN,EAST   66 STREET,10065,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+9,NATHAN'S FAMOUS,BROOKLYN,SURF AVENUE,11224,Hotdogs,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+10,SEUDA FOODS,BROOKLYN,KINGS HIGHWAY,11223,Jewish/Kosher,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+11,CARVEL ICE CREAM,BROOKLYN,CHURCH AVENUE,11218,"Ice Cream, Gelato, Yogurt, Ices",A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+12,CARVEL ICE CREAM,QUEENS,HILLSIDE AVENUE,11004,"Ice Cream, Gelato, Yogurt, Ices",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+13,CARVEL ICE CREAM,QUEENS,HILLSIDE AVENUE,11004,"Ice Cream, Gelato, Yogurt, Ices",B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+14,SAL'S DELI,QUEENS,20 AVENUE,11356,Delicatessen,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+15,STEVE CHU'S DELI & GROCERY,QUEENS,10 STREET,11106,Delicatessen,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+16,P & S DELI GROCERY,MANHATTAN,COLUMBUS AVENUE,10025,American,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+17,P & S DELI GROCERY,MANHATTAN,COLUMBUS AVENUE,10025,American,C,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+18,ANGELIKA FILM CENTER,MANHATTAN,WEST HOUSTON STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+19,ANGELIKA FILM CENTER,MANHATTAN,WEST HOUSTON STREET,10012,American,B,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+20,HO MEI RESTAURANT,QUEENS,37 AVENUE,11368,Chinese,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+21,THE COUNTRY CAFE,MANHATTAN,WALL STREET,10005,Sandwiches/Salads/Mixed Buffet,Z,"苗栗縣, 臺灣省, Taiwan","Miaoli County, Taiwan",24.560159,120.8214265
+22,THE COUNTRY CAFE,MANHATTAN,WALL STREET,10005,Sandwiches/Salads/Mixed Buffet,A,"苗栗縣, 臺灣省, Taiwan","Miaoli County, Taiwan",24.560159,120.8214265
+23,THE COUNTRY CAFE,MANHATTAN,WALL STREET,10005,Sandwiches/Salads/Mixed Buffet,P,"苗栗縣, 臺灣省, Taiwan","Miaoli County, Taiwan",24.560159,120.8214265
+24,THE COUNTRY CAFE,MANHATTAN,WALL STREET,10005,Sandwiches/Salads/Mixed Buffet,B,"苗栗縣, 臺灣省, Taiwan","Miaoli County, Taiwan",24.560159,120.8214265
+25,SHASHEMENE INT'L RESTAURANT,BROOKLYN,EAST   56 STREET,11203,Caribbean,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+26,DUNKIN',BROOKLYN,COURT STREET,11201,Donuts,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+27,DUNKIN',BROOKLYN,COURT STREET,11201,Donuts,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+28,CAFE METRO,MANHATTAN,8 AVENUE,10018,American,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+29,LEXLER DELI,MANHATTAN,LEXINGTON AVENUE,10174,Sandwiches/Salads/Mixed Buffet,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+30,BAGELS N BUNS,STATEN ISLAND,VICTORY BOULEVARD,10314,Delicatessen,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+31,HOT BAGELS,QUEENS,METROPOLITAN AVENUE,11379,Bagels/Pretzels,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+32,HOT BAGELS,QUEENS,METROPOLITAN AVENUE,11379,Bagels/Pretzels,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+33,LORENZO & MARIA'S KITCHEN,MANHATTAN,THIRD AVENUE,10028,Continental,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+34,LORENZO & MARIA'S KITCHEN,MANHATTAN,THIRD AVENUE,10028,Continental,B,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+35,BERKELEY,MANHATTAN,MADISON AVENUE,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+36,CARVEL ICE CREAM,STATEN ISLAND,HYLAN BOULEVARD,10305,"Ice Cream, Gelato, Yogurt, Ices",A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+37,NEW GOLDEN BILLION,BROOKLYN,RUTLAND ROAD,11212,Chinese,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+38,DOMINO'S,MANHATTAN,WEST   72 STREET,10023,Pizza,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+39,SPOONBREAD TOO,MANHATTAN,WEST  110 STREET,10025,Soul Food,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+40,SPOONBREAD TOO,MANHATTAN,WEST  110 STREET,10025,Soul Food,B,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+41,SPOONBREAD TOO,MANHATTAN,WEST  110 STREET,10025,Soul Food,P,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+42,KOSHER BAGEL HOLE,BROOKLYN,AVENUE J,11230,Jewish/Kosher,A,"Chalabre, Avenue Auguste Cathala, Ségovent, Chalabre, Limoux, Aude, Occitanie, France métropolitaine, 11230, France","Avenue Auguste Cathala, 11230 Chalabre, France",42.9841172,2.0072292
+43,PLAZA BAGELS & DELI,STATEN ISLAND,NEW DORP PLAZA,10306,Bagels/Pretzels,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+44,HAPPY GARDEN,BRONX,EAST KINGSBRIDGE ROAD,10458,Chinese,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+45,B & M HOT BAGEL & GROCERY,STATEN ISLAND,GIFFORDS LANE,10308,Delicatessen,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+46,PHILADELPHIA GRILLE EXPRESS,BROOKLYN,4 AVENUE,11209,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+47,PETER LUGER STEAKHOUSE,BROOKLYN,BROADWAY,11211,Steak,A,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+48,METROPOLITAN CLUB,MANHATTAN,EAST   60 STREET,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+49,21 CLUB,MANHATTAN,WEST   52 STREET,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+50,MANHEM CLUB,BRONX,CLARENCE AVE,10465,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+51,ISLE OF CAPRI RESTURANT,MANHATTAN,3 AVENUE,10065,Italian,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+52,OLD TOWN BAR & RESTAURANT,MANHATTAN,EAST   18 STREET,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+53,POLISH NATIONAL HOME,BROOKLYN,DRIGGS AVENUE,11222,Polish,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+54,SEVILLA RESTAURANT,MANHATTAN,CHARLES STREET,10014,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+55,SEVILLA RESTAURANT,MANHATTAN,CHARLES STREET,10014,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+56,CRIMINAL COURT BLDG CAFETERIA,MANHATTAN,CENTRE STREET,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+57,GOTTSCHEER HALL,QUEENS,FAIRVIEW AVENUE,11385,German,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+58,GOTTSCHEER HALL,QUEENS,FAIRVIEW AVENUE,11385,German,P,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+59,NYAC MAIN DINING ROOM,MANHATTAN,CENTRAL PARK SOUTH,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+60,7B BAR,MANHATTAN,AVENUE B,10009,American,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+61,CAFE ATELIER (ART STUDENTS LEAGUE),MANHATTAN,WEST   57 STREET,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+62,DONOHUE'S STEAK HOUSE,MANHATTAN,LEXINGTON AVENUE,10065,Steak,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+63,TOUT VA BIEN,MANHATTAN,WEST   51 STREET,10019,French,B,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+64,TOUT VA BIEN,MANHATTAN,WEST   51 STREET,10019,French,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+65,JUNIOR'S,BROOKLYN,FLATBUSH AVENUE EXTENSION,11201,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+66,MARCHIS RESTAURANT,MANHATTAN,EAST   31 STREET,10016,Italian,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+67,MARCHIS RESTAURANT,MANHATTAN,EAST   31 STREET,10016,Italian,P,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+68,TOWNE CAFE,BROOKLYN,EAST   15 STREET,11235,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+69,TOWNE CAFE,BROOKLYN,EAST   15 STREET,11235,American,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+70,OLD HOMESTEAD,MANHATTAN,9 AVENUE,10011,American,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+71,OLD HOMESTEAD,MANHATTAN,9 AVENUE,10011,American,P,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+72,OLD HOMESTEAD,MANHATTAN,9 AVENUE,10011,American,B,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+73,NEW PARK PIZZERIA & RESTAURANT,QUEENS,CROSSBAY BOULEVARD,11414,Pizza/Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+74,DOUGLASTON CLUB,QUEENS,WEST DRIVE,11363,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+75,RIZZO'S FINE PIZZA,QUEENS,STEINWAY STREET,11103,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+76,THE NEW STARLING ATHLETIC CLUB OF THE BRONX,BRONX,HAVILAND AVENUE,10462,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+77,WHITE HORSE TAVERN,MANHATTAN,HUDSON STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+78,CRYSTAL ROOM,STATEN ISLAND,OLYMPIA BOULEVARD,10305,Italian,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+79,LABETTI'S POST # 2159,STATEN ISLAND,HYLAN BOULEVARD,10305,American,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+80,SHELL LANES,BROOKLYN,BOUCK COURT,11223,American,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+81,MCSORLEY'S OLD ALE HOUSE,MANHATTAN,EAST    7 STREET,10003,Irish,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+82,MCSORLEY'S OLD ALE HOUSE,MANHATTAN,EAST    7 STREET,10003,Irish,P,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+83,FORLINIS RESTAURANT,MANHATTAN,BAXTER STREET,10013,Italian,Z,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+84,FORLINIS RESTAURANT,MANHATTAN,BAXTER STREET,10013,Italian,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+85,SOUTH SHORE SWIMMING CLUB,STATEN ISLAND,HYLAN BOULEVARD,10309,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+86,SOUTH SHORE SWIMMING CLUB,STATEN ISLAND,HYLAN BOULEVARD,10309,American,B,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+87,CORNER BISTRO,MANHATTAN,WEST    4 STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+88,CORNER BISTRO,MANHATTAN,WEST    4 STREET,10014,American,C,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+89,NOSTRAND DONUT SHOP,BROOKLYN,NOSTRAND AVENUE,11226,Donuts,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+90,DORRIAN'S RED HAND RESTAURANT,MANHATTAN,2 AVENUE,10028,Irish,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+91,LA GRENOUILLE,MANHATTAN,EAST   52 STREET,10022,French,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+92,COMO PIZZA,MANHATTAN,BROADWAY,10032,Pizza,B,"Washington Heights, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+93,COMO PIZZA,MANHATTAN,BROADWAY,10032,Pizza,A,"Washington Heights, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+94,KEATS RESTAURANT,MANHATTAN,2 AVENUE,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+95,KEATS RESTAURANT,MANHATTAN,2 AVENUE,10017,American,B,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+96,PANCHITO'S,MANHATTAN,MACDOUGAL STREET,10012,Mexican,B,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+97,PANCHITO'S,MANHATTAN,MACDOUGAL STREET,10012,Mexican,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+98,NEW CORNER,BROOKLYN,8 AVENUE,11228,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+99,THE PRINCETON CLUB,MANHATTAN,WEST   43 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+100,ARTURO'S,MANHATTAN,WEST HOUSTON STREET,10012,Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+101,SPAIN RESTAURANT & BAR,MANHATTAN,WEST   13 STREET,10011,Spanish,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+102,SPAIN RESTAURANT & BAR,MANHATTAN,WEST   13 STREET,10011,Spanish,B,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+103,SPAIN RESTAURANT & BAR,MANHATTAN,WEST   13 STREET,10011,Spanish,C,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+104,YANKEE TAVERN,BRONX,EAST  161 STREET,10451,American,B,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+105,YANKEE TAVERN,BRONX,EAST  161 STREET,10451,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+106,DONUT PUB,MANHATTAN,WEST   14 STREET,10011,Donuts,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+107,DONUT PUB,MANHATTAN,WEST   14 STREET,10011,Donuts,C,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+108,REBEN LUNCHEONETTE,BROOKLYN,HAVEMEYER STREET,11211,American,A,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+109,REBEN LUNCHEONETTE,BROOKLYN,HAVEMEYER STREET,11211,American,B,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+110,REBEN LUNCHEONETTE,BROOKLYN,HAVEMEYER STREET,11211,American,P,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+111,V & T RESTAURANT,MANHATTAN,AMSTERDAM AVENUE,10025,Italian,Z,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+112,V & T RESTAURANT,MANHATTAN,AMSTERDAM AVENUE,10025,Italian,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+113,JAHN'S RESTAURANT,QUEENS,37 AVENUE,11372,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+114,J&V FAMOUS PIZZA,BROOKLYN,18 AVENUE,11204,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+115,JOE ALLEN RESTAURANT,MANHATTAN,WEST   46 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+116,GARGIULO'S RESTAURANT,BROOKLYN,WEST   15 STREET,11224,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+117,PATSY'S ITALIAN RESTAURANT,MANHATTAN,WEST   56 STREET,10019,Italian,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+118,PATSY'S ITALIAN RESTAURANT,MANHATTAN,WEST   56 STREET,10019,Italian,P,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+119,PATSY'S ITALIAN RESTAURANT,MANHATTAN,WEST   56 STREET,10019,Italian,C,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+120,PARKSIDE RESTAURANT,QUEENS,CORONA AVENUE,11368,Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+121,LAVELLE'S ADMIRAL'S CLUB,QUEENS,BROADWAY,11103,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+122,NEARY'S PUB,MANHATTAN,EAST   57 STREET,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+123,NEW YORK PIZZA SUPREMA,MANHATTAN,8 AVENUE,10001,Pizza,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+124,MEE SUM CAFE,MANHATTAN,PELL STREET,10013,CafÃ©/Coffee/Tea,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+125,MEE SUM CAFE,MANHATTAN,PELL STREET,10013,CafÃ©/Coffee/Tea,P,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+126,NANCY'S RESTAURANT,QUEENS,JAMAICA AVENUE,11001,American,A,,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488
+127,HOP KEE RESTAURANT,MANHATTAN,MOTT STREET,10013,Chinese,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+128,NANCY WHISKEY PUB,MANHATTAN,LISPENARD ST,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+129,BLARNEY BAR,QUEENS,JAMAICA AVENUE,11435,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+130,MARGHERITA PIZZA,QUEENS,JAMAICA AVENUE,11432,Pizza,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+131,HEALY'S PUB,QUEENS,ROCKAWAY BEACH BOULEVARD,11694,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+132,FIFTH AVENUE BINGO,BROOKLYN,5 AVENUE,11215,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+133,DENINO'S PIZZERIA TAVERN,STATEN ISLAND,PORT RICHMOND AVENUE,10302,Pizza/Italian,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+134,DENINO'S PIZZERIA TAVERN,STATEN ISLAND,PORT RICHMOND AVENUE,10302,Pizza/Italian,P,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+135,MICHAEL'S RESTAURANT,BROOKLYN,AVENUE R,11229,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+136,LENIHAN'S SALOON,QUEENS,ATLANTIC AVENUE,11418,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+137,KILLARNEY ROSE,MANHATTAN,BEAVER STREET,10005,Irish,A,"苗栗縣, 臺灣省, Taiwan","Miaoli County, Taiwan",24.560159,120.8214265
+138,KILLARNEY ROSE,MANHATTAN,BEAVER STREET,10005,Irish,B,"苗栗縣, 臺灣省, Taiwan","Miaoli County, Taiwan",24.560159,120.8214265
+139,DON PEPPE,QUEENS,LEFFERTS BOULEVARD,11420,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+140,DON PEPPE,QUEENS,LEFFERTS BOULEVARD,11420,Italian,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+141,BLARNEY CASTLE,QUEENS,ROCKAWAY POINT BOULEVARD,11697,American,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+142,THREE STAR RESTAURANT,BROOKLYN,AVENUE U,11229,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+143,THREE STAR RESTAURANT,BROOKLYN,AVENUE U,11229,American,P,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+144,DANGERFIELD'S NIGHT CLUB,MANHATTAN,1 AVENUE,10065,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+145,DESMOND'S TAVERN,MANHATTAN,PARK AVENUE SOUTH,10016,American,Z,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+146,DESMOND'S TAVERN,MANHATTAN,PARK AVENUE SOUTH,10016,American,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+147,DESMOND'S TAVERN,MANHATTAN,PARK AVENUE SOUTH,10016,American,B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+148,DESMOND'S TAVERN,MANHATTAN,PARK AVENUE SOUTH,10016,American,P,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+149,NAOMI KOSHER PIZZA,QUEENS,MAIN STREET,11367,Jewish/Kosher,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+150,ROLL-N-ROASTER,BROOKLYN,EMMONS AVENUE,11235,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+151,TIO PEPE,MANHATTAN,WEST    4 STREET,10014,Seafood,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+152,BRENNAN & CARR,BROOKLYN,NOSTRAND AVENUE,11229,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+153,THE PUNCH BOWL,BRONX,BROADWAY,10463,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+154,THE PUNCH BOWL,BRONX,BROADWAY,10463,American,B,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+155,JARDIN DE CHINA REST,QUEENS,JUNCTION BOULEVARD,11368,Chinese,B,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+156,JARDIN DE CHINA REST,QUEENS,JUNCTION BOULEVARD,11368,Chinese,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+157,IRISH COTTAGE,QUEENS,72 AVENUE,11375,Irish,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+158,IRISH COTTAGE,QUEENS,72 AVENUE,11375,Irish,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+159,BLARNEY STONE,MANHATTAN,TRINITY PLACE,10006,Irish,A,"Financial District, Manhattan Community Board 1, Manhattan, New York County, NYC, New York, USA","100 Gold St # 2, New York, NY 10038, USA",40.7102606,-74.0035348
+160,SHIMONS KOSHER PIZZA,QUEENS,MAIN STREET,11367,Jewish/Kosher,Z,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+161,SHIMONS KOSHER PIZZA,QUEENS,MAIN STREET,11367,Jewish/Kosher,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+162,SHIMONS KOSHER PIZZA,QUEENS,MAIN STREET,11367,Jewish/Kosher,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+163,FASCATI'S PIZZERIA,BROOKLYN,HENRY STREET,11201,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+164,BABY BO'S CANTINA,MANHATTAN,2 AVENUE,10016,Tex-Mex,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+165,LI GRECI'S STAATEN RESTAURANT,STATEN ISLAND,FOREST AVENUE,10310,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+166,SHUN LEE PALACE RESTAURANT,MANHATTAN,EAST   55 STREET,10022,Chinese,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+167,TAMAQUA,BROOKLYN,EBONY COURT,11229,"Bottled beverages, including water, sodas, juices, etc.",A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+168,CARA MIA,QUEENS,HILLSIDE AVENUE,11427,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+169,IHOP,BRONX,BOSTON ROAD,10475,Pancakes/Waffles,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+170,MALONEY'S BAR,QUEENS,SUTPHIN BOULEVARD,11435,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+171,LA FUSTA RESTAURANT,QUEENS,BAXTER AVENUE,11373,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+172,LA FUSTA RESTAURANT,QUEENS,BAXTER AVENUE,11373,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+173,RICHMOND COUNTY COUNTRY CLUB,STATEN ISLAND,FLAGG PLACE,10304,American,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+174,LITTLE BROWN JUG,QUEENS,JAMAICA AVENUE,11418,American,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+175,LITTLE BROWN JUG,QUEENS,JAMAICA AVENUE,11418,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+176,LULU'S COFFEE SHOP,BRONX,CASTLE HILL AVENUE,10462,CafÃ©/Coffee/Tea,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+177,LULU'S COFFEE SHOP,BRONX,CASTLE HILL AVENUE,10462,CafÃ©/Coffee/Tea,C,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+178,LULU'S COFFEE SHOP,BRONX,CASTLE HILL AVENUE,10462,CafÃ©/Coffee/Tea,B,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+179,MITCHELL'S RESTAURANT,BROOKLYN,VANDERBILT AVENUE,11238,Soul Food,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+180,MITCHELL'S RESTAURANT,BROOKLYN,VANDERBILT AVENUE,11238,Soul Food,P,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+181,MITCHELL'S RESTAURANT,BROOKLYN,VANDERBILT AVENUE,11238,Soul Food,B,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+182,FINNEGAN'S WAKE PUB,MANHATTAN,FIRST AVENUE,10021,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+183,DA VINCI PIZZA,BROOKLYN,18 AVENUE,11204,Pizza/Italian,Z,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+184,DA VINCI PIZZA,BROOKLYN,18 AVENUE,11204,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+185,DA VINCI PIZZA,BROOKLYN,18 AVENUE,11204,Pizza/Italian,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+186,MEXICO LINDO RESTAURANT,MANHATTAN,2 AVENUE,10010,Mexican,A,"嘉義縣, 臺灣省, TW","Chiayi County, Taiwan",23.4518428,120.2554615
+187,MARINA DELRAY,BRONX,SCHURZ AVE,10465,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+188,NEW FLORIDIAN DINER,BROOKLYN,FLATBUSH AVENUE,11234,American,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+189,TWINS PUB,MANHATTAN,9 AVENUE,10001,Irish,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+190,NARROWS COFFEE SHOP,BROOKLYN,4 AVENUE,11209,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+191,NARROWS COFFEE SHOP,BROOKLYN,4 AVENUE,11209,American,C,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+192,BROOME STREET BAR,MANHATTAN,WEST BROADWAY,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+193,O'HANLON'S PUB,QUEENS,31 STREET,11105,Irish,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+194,JG MELON RESTAURANT,MANHATTAN,3 AVENUE,10021,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+195,JG MELON RESTAURANT,MANHATTAN,3 AVENUE,10021,American,B,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+196,JG MELON RESTAURANT,MANHATTAN,3 AVENUE,10021,American,C,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+197,JACK'S PIZZA & PASTA,QUEENS,26 AVENUE,11360,Pizza/Italian,A,"Villeneuve-les-Corbières, Narbonne, Aude, Occitanie, France métropolitaine, 11360, France","11360 Villeneuve-les-Corbières, France",42.977171,2.777277
+198,TAP ROOM,MANHATTAN,CENTRAL PARK SOUTH,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+199,TAP ROOM,MANHATTAN,CENTRAL PARK SOUTH,10019,American,B,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+200,COCKTAIL ROOM (NYAC),MANHATTAN,CENTRAL PARK SOUTH,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+201,FLAME RESTAURANT COFFEE HOUSE,MANHATTAN,9 AVENUE,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+202,JACKSON HOLE,MANHATTAN,EAST   64 STREET,10065,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+203,ZUM STAMMTISCH,QUEENS,MYRTLE AVENUE,11385,German,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+204,BUDDY'S WONDER BAR,STATEN ISLAND,HARRISON AVENUE,10302,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+205,BUDDY'S WONDER BAR,STATEN ISLAND,HARRISON AVENUE,10302,American,B,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+206,THE ASSEMBLY BAR,QUEENS,COOPER AVENUE,11385,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+207,MR BROADWAY KOSHER RESTAURANT,MANHATTAN,BROADWAY,10018,Jewish/Kosher,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+208,PICCOLA VENEZIA,QUEENS,28 AVENUE,11103,Italian,Z,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+209,PICCOLA VENEZIA,QUEENS,28 AVENUE,11103,Italian,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+210,PICCOLA VENEZIA,QUEENS,28 AVENUE,11103,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+211,NI-NI'S CAFE,STATEN ISLAND,NEW DORP LANE,10306,Italian,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+212,CAPITOL RESTAURANT,MANHATTAN,BROADWAY,10034,American,A,"Inwood, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, 10034, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+213,CAPITOL RESTAURANT,MANHATTAN,BROADWAY,10034,American,B,"Inwood, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, 10034, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+214,LA BONNE SOUPE BISTRO,MANHATTAN,WEST   55 STREET,10019,French,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+215,LA BONNE SOUPE BISTRO,MANHATTAN,WEST   55 STREET,10019,French,C,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+216,LA BONNE SOUPE BISTRO,MANHATTAN,WEST   55 STREET,10019,French,B,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+217,MIMIS RESTAURANT & BAR,MANHATTAN,SECOND AVENUE,10022,Italian,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+218,LENNY'S CLAM BAR,QUEENS,CROSSBAY BOULEVARD,11414,Seafood,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+219,GRIFFIS FACULTY CLUB,MANHATTAN,EAST   68 STREET,10065,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+220,GRIFFIS FACULTY CLUB,MANHATTAN,EAST   68 STREET,10065,American,B,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+221,GRAY'S PAPAYA,MANHATTAN,BROADWAY,10023,Hotdogs,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+222,DANI PIZZA AND RESTAURANT,QUEENS,LEFFERTS BOULEVARD,11415,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+223,MCDONALD'S,BROOKLYN,FLATBUSH AVENUE,11226,Hamburgers,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+224,MCDONALD'S,QUEENS,101 AVENUE,11416,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+225,CAFE FIORELLO,MANHATTAN,BROADWAY,10023,Italian,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+226,LB SPUMONI GARDENS,BROOKLYN,86 STREET,11223,Pizza/Italian,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+227,AMORE PIZZERIA & RESTAURANT,QUEENS,STRATTON STREET,11354,Pizza/Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+228,THE LARK'S NEST,BRONX,KATONAH AVE,10470,Irish,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+229,TERRACE CAFE,BRONX,SOUTHERN BOULEVARD,10460,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+230,ZOO BREWS-BRONX ZOO,BRONX,SOUTHERN BOULEVARD,10460,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+231,GRIZZLY GROUNDS,BRONX,SOUTHERN BOULEVARD,10460,CafÃ©/Coffee/Tea,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+232,THE PECKING ORDER,BRONX,SOUTHERN BOULEVARD,10460,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+233,AFRICAN MARKET (BABOON CAFE),BRONX,SOUTHERN BOULEVARD,10460,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+234,ROADHOUSE RESTAURANT,STATEN ISLAND,CLOVE ROAD,10301,Italian,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+235,ELEPHANT & CASTLE,MANHATTAN,GREENWICH AVENUE,10011,American,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+236,MILL BASIN KOSHER DELI,BROOKLYN,AVENUE T,11234,Jewish/Kosher,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+237,OYSTER BAR,MANHATTAN,GRAND CENTRAL TERMINAL,10017,Seafood,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+238,CHERRY TAVERN,MANHATTAN,EAST    6 STREET,10009,American,Z,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+239,CHERRY TAVERN,MANHATTAN,EAST    6 STREET,10009,American,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+240,CHERRY TAVERN,MANHATTAN,EAST    6 STREET,10009,American,B,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+241,COLONNADE DINER,STATEN ISLAND,HYLAN BOULEVARD,10306,American,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+242,COLONNADE DINER,STATEN ISLAND,HYLAN BOULEVARD,10306,American,B,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+243,RED FLAME DINER,MANHATTAN,WEST   44 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+244,MAGGIES PLACE,MANHATTAN,EAST   47 STREET,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+245,MAGGIES PLACE,MANHATTAN,EAST   47 STREET,10017,American,B,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+246,BRADY'S BAR,MANHATTAN,2 AVENUE,10028,American,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+247,JIMMY'S CORNER,MANHATTAN,WEST   44 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+248,JIMMY'S CORNER,MANHATTAN,WEST   44 STREET,10036,American,B,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+249,FROST RESTAURANT,BROOKLYN,FROST STREET,11211,Italian,A,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+250,IL CORTILE RESTAURANT,MANHATTAN,MULBERRY STREET,10013,Italian,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+251,DENNY'S PUB,BROOKLYN,BEVERLY ROAD,11218,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+252,MARIES CRISIS CAFE,MANHATTAN,GROVE STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+253,NEW PARKWAY RESTAURANT,BROOKLYN,13 AVENUE,11228,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+254,NEW PARKWAY RESTAURANT,BROOKLYN,13 AVENUE,11228,American,P,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+255,CAFE RIAZOR,MANHATTAN,WEST   16 STREET,10011,Spanish,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+256,CAFE RIAZOR,MANHATTAN,WEST   16 STREET,10011,Spanish,B,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+257,RAOULS,MANHATTAN,PRINCE STREET,10012,French,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+258,THE BROOK,MANHATTAN,EAST   54 STREET,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+259,MARBELLA RESTAURANT,QUEENS,NORTHERN BOULEVARD,11361,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+260,P.J.' S,QUEENS,UNION TURNPIKE,11366,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+261,DOUBLES CLUB,MANHATTAN,5 AVENUE,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+262,DOUBLES CLUB,MANHATTAN,5 AVENUE,10022,American,B,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+263,HATSUHANA RESTAURANT,MANHATTAN,EAST   48 STREET,10017,Japanese,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+264,VALENTINO'S PIZZA,QUEENS,KISSENA BOULEVARD,11367,Pizza/Italian,Z,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+265,VALENTINO'S PIZZA,QUEENS,KISSENA BOULEVARD,11367,Pizza/Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+266,VALENTINO'S PIZZA,QUEENS,KISSENA BOULEVARD,11367,Pizza/Italian,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+267,VIAND COFFEE SHOP,MANHATTAN,MADISON AVENUE,10065,Greek,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+268,VIAND COFFEE SHOP,MANHATTAN,MADISON AVENUE,10065,Greek,B,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+269,PALM TOO,MANHATTAN,2 AVENUE,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+270,PALM TOO,MANHATTAN,2 AVENUE,10017,American,C,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+271,PALM TOO,MANHATTAN,2 AVENUE,10017,American,B,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+272,BLUE BAY RESTAURANT,BRONX,JOHNSON AVENUE,10463,American,Z,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+273,BLUE BAY RESTAURANT,BRONX,JOHNSON AVENUE,10463,American,B,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+274,BLUE BAY RESTAURANT,BRONX,JOHNSON AVENUE,10463,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+275,THE HYTES BAR,BROOKLYN,ST JOHNS PLACE,11213,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+276,PERGOLA DES ARTISTES,MANHATTAN,WEST   46 STREET,10036,French,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+277,JODY'S CLUB,STATEN ISLAND,FOREST AVENUE,10301,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+278,JODY'S CLUB,STATEN ISLAND,FOREST AVENUE,10301,American,B,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+279,REIF'S TAVERN,MANHATTAN,EAST   92 STREET,10128,American,A,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+280,REIF'S TAVERN,MANHATTAN,EAST   92 STREET,10128,American,C,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+281,WHITESTONE LANES,QUEENS,WHITESTONE EXPRESSWAY,11354,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+282,JOHN'S PIZZERIA,QUEENS,GRAND AVENUE,11373,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+283,SEASHORE RESTAURANT,BRONX,CITY ISLAND AVE,10464,Seafood,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+284,CAFFE REGGIO,MANHATTAN,MAC DOUGAL STREET,10012,Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+285,CAFE UN DEUX TROIS,MANHATTAN,WEST   44 STREET,10036,French,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+286,CAFE UN DEUX TROIS,MANHATTAN,WEST   44 STREET,10036,French,B,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+287,ARMANDO'S PIZZA,BROOKLYN,PENNSYLVANIA AVENUE,11239,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+288,KNICKERBOCKER BAR & GRILL,MANHATTAN,UNIVERSITY PLACE,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+289,EL POTE ESPANOL,MANHATTAN,2 AVENUE,10016,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+290,EL POTE ESPANOL,MANHATTAN,2 AVENUE,10016,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+291,THE RIVER CAFE,BROOKLYN,WATER STREET,11201,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+292,MUDVILLE SALOON,MANHATTAN,CHAMBERS STREET,10007,American,A,"彰化縣, 臺灣省, Taiwan","Changhua County, Taiwan",24.0517963,120.5161352
+293,JOHNNY'S REEF RESTAURANT,BRONX,CITY ISLAND AVE,10464,Seafood,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+294,JOHNNY'S REEF RESTAURANT,BRONX,CITY ISLAND AVE,10464,Seafood,C,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+295,WHITE CASTLE,BROOKLYN,EMPIRE BOULEVARD,11213,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+296,WHITE CASTLE,BRONX,BOSTON POST ROAD,10467,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+297,WHITE CASTLE,QUEENS,QUEENS BOULEVARD,11104,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+298,FERDINANDO'S RESTAURANT,BROOKLYN,UNION STREET,11231,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+299,MCDONALD'S,QUEENS,71 AVENUE,11375,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+300,NECTAR COFFEE SHOP,MANHATTAN,MADISON AVENUE,10075,American,A,"Upper East Side, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+301,THE CUPPING ROOM CAFE,MANHATTAN,WEST BROADWAY,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+302,THE CUPPING ROOM CAFE,MANHATTAN,WEST BROADWAY,10013,American,B,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+303,MCDONALD'S,BROOKLYN,UTICA AVENUE,11203,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+304,MCDONALD'S,BROOKLYN,UTICA AVENUE,11203,Hamburgers,C,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+305,PETE'S TAVERN,MANHATTAN,EAST   18 STREET,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+306,GINO'S PIZZERIA,QUEENS,SPRINGFIELD BOULEVARD,11364,Pizza/Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+307,JIM BRADY'S RESTAURANT,MANHATTAN,MAIDEN LANE,10038,Irish,A,"Financial District, Manhattan Community Board 1, Manhattan, New York County, NYC, New York, USA","100 Gold St # 2, New York, NY 10038, USA",40.7102606,-74.0035348
+308,VILLA MOSCONI RESTAURANT,MANHATTAN,MACDOUGAL STREET,10012,Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+309,VILLA MOSCONI RESTAURANT,MANHATTAN,MACDOUGAL STREET,10012,Italian,B,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+310,THE NEW AMITY RESTAURANT,MANHATTAN,MADISON AVENUE,10028,American,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+311,VOLARE RESTAURANT,MANHATTAN,WEST FOURTH STREET,10012,Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+312,SPARKS STEAK HOUSE,MANHATTAN,EAST   46 STREET,10017,Steak,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+313,THE DART SPORTS BAR,QUEENS,PARSONS BOULEVARD,11432,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+314,BAMONTE'S RESTAURANT,BROOKLYN,WITHERS ST,11211,Italian,A,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+315,JOHN MULLIGAN'S FIRESIDE PUB,BRONX,KATONAH AVENUE,10470,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+316,JOHN MULLIGAN'S FIRESIDE PUB,BRONX,KATONAH AVENUE,10470,American,B,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+317,BURGER KING,QUEENS,NORTHERN BOULEVARD,11361,Hamburgers,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+318,EAR INN,MANHATTAN,SPRING STREET,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+319,BURGER KING,QUEENS,NORTHERN BOULEVARD,11377,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+320,MCDONALD'S,STATEN ISLAND,RICHMOND AVENUE,10312,Hamburgers,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+321,ROSSINI'S,MANHATTAN,EAST   38 STREET,10016,Italian,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+322,THREE GUY'S RESTAURANT,MANHATTAN,MADISON AVENUE,10021,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+323,THE PLAYERS,MANHATTAN,GRAMERCY PARK SOUTH,10003,American,C,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+324,THE PLAYERS,MANHATTAN,GRAMERCY PARK SOUTH,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+325,THE PLAYERS,MANHATTAN,GRAMERCY PARK SOUTH,10003,American,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+326,TJK CAFE & RESTAURANT,QUEENS,HORACE HARDING BOULEVARD,11362,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+327,SMITH & WOLLENSKY,MANHATTAN,EAST 49th STREET,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+328,MCDONALD'S,QUEENS,WILLETS POINT BOULEVARD,11357,Hamburgers,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+329,OLIVE TREE CAFE & COMEDY CELLAR,MANHATTAN,MAC DOUGAL STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+330,BURGER KING,QUEENS,HILLSIDE AVENUE,11004,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+331,BURGER KING,BROOKLYN,CHURCH AVENUE,11236,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+332,BURGER KING,BROOKLYN,CHURCH AVENUE,11236,Hamburgers,C,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+333,MANDUCATIS,QUEENS,JACKSON AVENUE,11101,Italian,A,"Dolní Měcholupy, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 11101, Česko","109 00 Prague-Dolní Měcholupy, Czechia",50.059009,14.558624
+334,MAMMA LUCIA,BROOKLYN,FOSTER AVENUE,11230,Italian,A,"Chalabre, Avenue Auguste Cathala, Ségovent, Chalabre, Limoux, Aude, Occitanie, France métropolitaine, 11230, France","Avenue Auguste Cathala, 11230 Chalabre, France",42.9841172,2.0072292
+335,WEST BANK CAFE,MANHATTAN,WEST   42 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+336,LA BARAKA RESTAURANT,QUEENS,NORTHERN BOULEVARD,11362,French,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+337,LIBERMAN'S LUNCHEONETTE,BROOKLYN,16 AVENUE,11204,Jewish/Kosher,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+338,ZAFI'S LUNCHEONETTE,MANHATTAN,GRAND STREET,10002,American,A,"宜蘭縣, 臺灣省, TW","Yilan County, Taiwan",24.7021073,121.7377502
+339,LA PALINA RESTAURANT,BROOKLYN,AVENUE O,11204,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+340,LA PALINA RESTAURANT,BROOKLYN,AVENUE O,11204,Italian,C,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+341,TY'S,MANHATTAN,CHRISTOPHER STREET,10014,"Bottled beverages, including water, sodas, juices, etc.",A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+342,MARINER INN,BROOKLYN,AVENUE S,11234,American,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+343,NORTH SHORE DINER,QUEENS,NORTHERN BLVD,11358,American,A,"Östermalm, Östermalms stadsdelsområde, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Östermalm, Stockholm, Sweden",59.3376963,18.0900386
+344,GREEN HOUSE CAFE,BROOKLYN,THIRD AVENUE,11209,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+345,MCDONALD'S,BRONX,EAST TREMONT AVENUE,10465,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+346,LA RIPAILLE RESTAURANT,MANHATTAN,HUDSON STREET,10014,French,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+347,MARINA CAFE,STATEN ISLAND,MANSION AVE,10308,Italian,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+348,DON FILIPPO RESTAURANT,MANHATTAN,LEXINGTON AVENUE,10075,Italian,A,"Upper East Side, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+349,BURGER KING,QUEENS,QUEENS BOULEVARD,11374,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+350,DAZIES RESTAURANT,QUEENS,QUEENS BOULEVARD,11104,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+351,OMONIA CAFE,QUEENS,BROADWAY,11106,Greek,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+352,MURALS ON 54/RANDOLPH'S,MANHATTAN,WEST   54 STREET,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+353,MURALS ON 54/RANDOLPH'S,MANHATTAN,WEST   54 STREET,10019,American,B,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+354,VETERANS OF FOREIGN WARS POST #107 CANTEEN,BROOKLYN,GERRITSEN AVENUE,11229,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+355,TROPICAL HOUSE BAKING CO.,BROOKLYN,SCHENECTADY AVENUE,11213,Bakery,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+356,BURGER KING,QUEENS,ROCKAWAY BOULEVARD,11434,Hamburgers,A,"Östermalm, Östermalms stadsdelsområde, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Östermalm, Stockholm, Sweden",59.3376963,18.0900386
+357,BURGER KING,QUEENS,ROCKAWAY BOULEVARD,11434,Hamburgers,P,"Östermalm, Östermalms stadsdelsområde, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Östermalm, Stockholm, Sweden",59.3376963,18.0900386
+358,YANKEE JZ PIZZA,BRONX,WESTCHESTER AVENUE,10472,Pizza,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+359,YANKEE JZ PIZZA,BRONX,WESTCHESTER AVENUE,10472,Pizza,B,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+360,CLINTON RESTAURANT,QUEENS,CLINTONVILLE STREET,11357,Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+361,RACQUET & TENNIS CLUB,MANHATTAN,PARK AVENUE,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+362,ASTRO RESTAURANT,MANHATTAN,WEST   55 STREET,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+363,GOLDEN DOVE DINER,STATEN ISLAND,RICHMOND AVENUE,10312,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+364,KORNER PIZZERIA,BROOKLYN,CHURCH AVENUE,11218,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+365,VILLA BERULIA,MANHATTAN,EAST   34 STREET,10016,Italian,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+366,VICTOR'S CAFE,MANHATTAN,WEST   52 STREET,10019,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+367,PETES PIZZERIA & RESTAURANT,BROOKLYN,3 AVENUE,11209,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+368,KEENS STEAKHOUSE,MANHATTAN,WEST 36th STREET,10018,Steak,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+369,BuBo,MANHATTAN,3 AVENUE,10016,American,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+370,READY PENNY INN,QUEENS,73 STREET,11372,Irish,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+371,IL MULINO,MANHATTAN,WEST    3 STREET,10012,Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+372,IL MULINO,MANHATTAN,WEST    3 STREET,10012,Italian,B,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+373,FELIDIA RESTAURANT,MANHATTAN,EAST   58 STREET,10022,Italian,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+374,MCDONALD'S,BROOKLYN,CLARENDON ROAD,11203,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+375,THE MALT HOUSE,MANHATTAN,THOMPSON STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+376,SHUN LEE,MANHATTAN,WEST   65 STREET,10023,Chinese,Z,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+377,SHUN LEE,MANHATTAN,WEST   65 STREET,10023,Chinese,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+378,SHUN LEE,MANHATTAN,WEST   65 STREET,10023,Chinese,C,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+379,IHOP,BRONX,BROADWAY,10463,American,Z,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+380,IHOP,BRONX,BROADWAY,10463,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+381,PONGSRI THAI RESTAURANT,MANHATTAN,WEST   48 STREET,10036,Thai,B,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+382,PONGSRI THAI RESTAURANT,MANHATTAN,WEST   48 STREET,10036,Thai,P,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+383,PONGSRI THAI RESTAURANT,MANHATTAN,WEST   48 STREET,10036,Thai,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+384,PRIMAVERA PIZZA & PASTA,MANHATTAN,2 AVENUE,10022,Pizza/Italian,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+385,TONY'S PIER RESTAURANT,BRONX,CITY ISLAND AVE,10464,Seafood,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+386,ELIO'S,MANHATTAN,SECOND AVENUE,10028,Italian,B,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+387,KASTELI II,MANHATTAN,8 AVENUE,10001,Irish,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+388,KASTELI II,MANHATTAN,8 AVENUE,10001,Irish,C,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+389,KASTELI II,MANHATTAN,8 AVENUE,10001,Irish,B,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+390,MOLLY WEE PUB,MANHATTAN,8 AVENUE,10001,Irish,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+391,EL CARIBE,BROOKLYN,STRICKLAND AVE,11234,Italian,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+392,OMEN JAPANESE CUISINE,MANHATTAN,THOMPSON STREET,10012,Japanese,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+393,MCDONALD'S,QUEENS,KISSENA BOULEVARD,11367,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+394,ROSIE O'GRADY RESTAURANT,MANHATTAN,7 AVENUE,10019,Irish,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+395,EUROPA BAR,QUEENS,SUTPHIN BOULEVARD,11435,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+396,CASA BELLA,MANHATTAN,MULBERRY STREET,10013,Italian,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+397,CHEZ NAPOLEON,MANHATTAN,WEST   50 STREET,10019,French,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+398,TURKEY'S NEST TAVERN,BROOKLYN,BEDFORD AVENUE,11249,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+399,LA VILLA DE PIZZA & RESTAURANT,QUEENS,153 AVENUE,11414,Pizza,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+400,OZONE PIZZERIA,QUEENS,LIBERTY AVENUE,11417,Pizza/Italian,A,"Lasnamäe, Kesklinn, Tallinn, Lasnamäe linnaosa, Tallinn, Harju maakond, 11412, Eesti","Lasnamäe, Tallinn, Estonia",59.4311812,24.7879513
+401,AGRA RESTAURANT,MANHATTAN,LEXINGTON AVENUE,10065,Indian,B,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+402,AGRA RESTAURANT,MANHATTAN,LEXINGTON AVENUE,10065,Indian,C,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+403,ARTURO'S,MANHATTAN,YORK AVENUE,10028,Italian,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+404,PARIS BLUES,MANHATTAN,7 AVENUE,10027,American,A,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+405,PARIS BLUES,MANHATTAN,7 AVENUE,10027,American,B,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+406,GENE'S RESTURANT,MANHATTAN,WEST   11 STREET,10011,Italian,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+407,COZY SOUP & BURGER,MANHATTAN,BROADWAY,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+408,VILLA FIORITA,BROOKLYN,18 AVENUE,11214,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+409,MOMS LUNCHEONETTE,QUEENS,103 AVENUE,11417,American,A,"Lasnamäe, Kesklinn, Tallinn, Lasnamäe linnaosa, Tallinn, Harju maakond, 11412, Eesti","Lasnamäe, Tallinn, Estonia",59.4311812,24.7879513
+410,FONTANA FAMOUS PIZZA & GYRO,QUEENS,NORTHERN BOULEVARD,11361,Greek,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+411,LUSARDI'S RESTAURANT,MANHATTAN,SECOND AVENUE,10075,Italian,A,"Upper East Side, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+412,PORTOFINO,QUEENS,ASCAN AVENUE,11375,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+413,PORTOFINO,QUEENS,ASCAN AVENUE,11375,Italian,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+414,KING'S ARMS RESTAURANT,STATEN ISLAND,FOREST AVENUE,10310,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+415,BLUE NOTE JAZZ,MANHATTAN,WEST    3 STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+416,THE WATER CLUB,MANHATTAN,EAST   30 STREET,10016,Seafood,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+417,MARCO POLO RISTORANTE,BROOKLYN,COURT STREET,11231,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+418,MANHATTAN MONSTER,MANHATTAN,GROVE STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+419,AMERICAN MUSEUM OF NATURAL HISTORY FOOD COURT,MANHATTAN,W 79 STREET,10024,American,Z,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+420,AMERICAN MUSEUM OF NATURAL HISTORY FOOD COURT,MANHATTAN,W 79 STREET,10024,American,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+421,TRIPOLI RESTAURANT/SWALLOW CAFE,BROOKLYN,ATLANTIC AVENUE,11201,Mediterranean,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+422,PJ BERNSTEIN DELI & RESTAURANT,MANHATTAN,THIRD AVENUE,10021,Delicatessen,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+423,PJ BERNSTEIN DELI & RESTAURANT,MANHATTAN,THIRD AVENUE,10021,Delicatessen,B,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+424,PJ CARNEY'S,MANHATTAN,7 AVENUE,10019,Irish,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+425,TOMOE SUSHI,MANHATTAN,THOMPSON STREET,10012,Japanese,B,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+426,TOMOE SUSHI,MANHATTAN,THOMPSON STREET,10012,Japanese,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+427,JP'S WATERSIDE RESTAURANT,BRONX,MINNIEFORD AVE,10464,Seafood,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+428,JP'S WATERSIDE RESTAURANT,BRONX,MINNIEFORD AVE,10464,Seafood,B,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+429,JOHN & JOE PIZZERIA & RESTAURANT,BRONX,LYDIG AVENUE,10462,Pizza/Italian,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+430,SUNSET PIZZERIA,STATEN ISLAND,ROSSVILLE AVENUE,10309,Pizza/Italian,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+431,SUNSET PIZZERIA,STATEN ISLAND,ROSSVILLE AVENUE,10309,Pizza/Italian,B,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+432,MCDONALD'S,QUEENS,COOPER AVENUE,11385,Hamburgers,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+433,JACKSON HOLE,MANHATTAN,THIRD AVENUE,10016,American,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+434,JACKSON HOLE,MANHATTAN,THIRD AVENUE,10016,American,P,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+435,JACKSON HOLE,MANHATTAN,THIRD AVENUE,10016,American,B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+436,NAPOLI PIZZA,QUEENS,69 AVENUE,11365,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+437,VESUVIO RESTAURANT & PIZZA,BROOKLYN,3 AVENUE,11209,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+438,VESUVIO RESTAURANT & PIZZA,BROOKLYN,3 AVENUE,11209,Pizza/Italian,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+439,VESUVIO RESTAURANT & PIZZA,BROOKLYN,3 AVENUE,11209,Pizza/Italian,C,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+440,WESTERN BAKERY,QUEENS,MERRICK BOULEVARD,11413,Caribbean,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+441,WESTERN BAKERY,QUEENS,MERRICK BOULEVARD,11413,Caribbean,P,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+442,JOHNS CAFE & RESTAURANT,MANHATTAN,SECOND AVENUE,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+443,CAFE LUXEMBOURG,MANHATTAN,WEST   70 STREET,10023,French,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+444,"DUNKIN', BASKIN ROBBINS",QUEENS,HORACE HARDING EXPRESSWAY,11367,Donuts,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+445,"DUNKIN', BASKIN ROBBINS",QUEENS,HORACE HARDING EXPRESSWAY,11367,Donuts,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+446,BROADWAY RESTAURANT,MANHATTAN,BROADWAY,10025,American,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+447,BROADWAY RESTAURANT,MANHATTAN,BROADWAY,10025,American,B,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+448,NARITA JAPANESE RESTAURANT,QUEENS,70 ROAD,11375,Japanese,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+449,CUCHIFRITO,MANHATTAN,EAST  116 STREET,10029,Mexican,A,"East Harlem, Manhattan Community Board 11, Manhattan, New York County, NYC, New York, USA","1664 Park Ave, New York, NY 10035, USA",40.80029760000001,-73.9428147
+450,IL CANTINORI RESTAURAUNT,MANHATTAN,EAST   10 STREET,10003,Italian,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+451,ANDREWS COFFEE SHOP,MANHATTAN,7 AVENUE,10018,American,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+452,THE CLUBHOUSE,QUEENS,FRESH POND ROAD,11379,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+453,FAME DINER,QUEENS,GRAND AVENUE,11378,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+454,KNIGHTS OF BARON DEKALB,BROOKLYN,EMMONS AVENUE,11235,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+455,WEST CORK-UNION HALL,STATEN ISLAND,HENDERSON AVE,10310,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+456,KOSHER HUT OF BROOKLYN,BROOKLYN,KINGS HIGHWAY,11223,Jewish/Kosher,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+457,KOSHER HUT OF BROOKLYN,BROOKLYN,KINGS HIGHWAY,11223,Jewish/Kosher,P,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+458,TERRA BLUES,MANHATTAN,BLEEKER STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+459,FLAMINGO,QUEENS,ROOSEVELT AVENUE,11372,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+460,FLAMINGO,QUEENS,ROOSEVELT AVENUE,11372,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+461,MONTE'S,MANHATTAN,MACDOUGAL STREET,10012,Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+462,GOTHAM BAR & GRILL,MANHATTAN,EAST   12 STREET,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+463,LONDON LENNIES,QUEENS,WOODHAVEN BOULEVARD,11374,Seafood,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+464,DUNKIN',BRONX,BOSTON POST ROAD,10475,Donuts,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+465,COOPER TOWN DINER,MANHATTAN,1 AVENUE,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+466,DELMONICO'S KITCHEN,MANHATTAN,WEST   36 STREET,10018,American,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+467,DELMONICO'S KITCHEN,MANHATTAN,WEST   36 STREET,10018,American,B,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+468,MEZZALUNA,MANHATTAN,THIRD AVENUE,10021,Italian,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+469,RESTUARANT NIPPON,MANHATTAN,EAST   52 STREET,10022,Japanese,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+470,O'HARA'S,MANHATTAN,CEDAR STREET,10006,American,A,"Financial District, Manhattan Community Board 1, Manhattan, New York County, NYC, New York, USA","100 Gold St # 2, New York, NY 10038, USA",40.7102606,-74.0035348
+471,O'HARA'S,MANHATTAN,CEDAR STREET,10006,American,B,"Financial District, Manhattan Community Board 1, Manhattan, New York County, NYC, New York, USA","100 Gold St # 2, New York, NY 10038, USA",40.7102606,-74.0035348
+472,AQUEDUCT NORTH,BRONX,KATONAH AVE,10470,Irish,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+473,E.A.T. CAFE,MANHATTAN,MADISON AVENUE,10028,American,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+474,E.A.T. CAFE,MANHATTAN,MADISON AVENUE,10028,American,B,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+475,YANKEE CLIPPER,QUEENS,LAGUARDIA AIRPORT BLDG,11369,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+476,REX MANOR,BROOKLYN,60 STREET,11219,Continental,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+477,CLUB 101,MANHATTAN,PARK AVENUE,10178,American,A,"Mitte, Berlin, Deutschland","Mitte, Berlin, Germany",52.5372897,13.3602743
+478,RIVERDALE DINER,BRONX,KINGSBRIDGE AVENUE,10463,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+479,RIVERDALE DINER,BRONX,KINGSBRIDGE AVENUE,10463,American,B,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+480,CARLOS PIZZA,QUEENS,METROPOLITAN AVENUE,11379,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+481,THE BITTER END,MANHATTAN,BLEECKER STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+482,ARRIBA ARRIBA,MANHATTAN,9 AVENUE,10019,Mexican,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+483,GEIDO RESTAURANT,BROOKLYN,FLATBUSH AVENUE,11217,Japanese,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+484,BARNEY GREENGRASS,MANHATTAN,AMSTERDAM AVENUE,10024,Jewish/Kosher,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+485,ANNAM BRAHAM RESTAURANT,QUEENS,164 STREET,11432,Indian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+486,MONTERO BAR & GRILL,BROOKLYN,ATLANTIC AVENUE,11201,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+487,PISA PIZZERIA,QUEENS,MYRTLE AVENUE,11385,Pizza/Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+488,PETE'S CLAM STOP,BROOKLYN,SURF AVENUE,11224,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+489,BURRITO LOCO,MANHATTAN,WEST    4 STREET,10014,Tex-Mex,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+490,FIT CAFETERIA (BUILDING A ) (8th ave),MANHATTAN,WEST   27 STREET,10001,American,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+491,SMILING PIZZA,BROOKLYN,7 AVENUE,11215,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+492,SYMPOSIUM GREEK RESTAURANT,MANHATTAN,WEST  113 STREET,10025,Greek,C,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+493,SYMPOSIUM GREEK RESTAURANT,MANHATTAN,WEST  113 STREET,10025,Greek,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+494,VILLAGE YOKOCHO,MANHATTAN,STUYVESANT STREET,10003,Japanese,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+495,CLARK'S RESTAURANT,BROOKLYN,CLARK STREET,11201,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+496,PIETROS,MANHATTAN,EAST 43RD STREET,10017,Italian,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+497,PIETROS,MANHATTAN,EAST 43RD STREET,10017,Italian,B,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+498,MISS LILY'S 7A,MANHATTAN,AVENUE A,10009,Caribbean,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+499,MISS LILY'S 7A,MANHATTAN,AVENUE A,10009,Caribbean,B,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+500,ROSA MEXICANO,MANHATTAN,FIRST AVENUE,10022,Mexican,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+501,DUFFY'S,STATEN ISLAND,FOREST AVENUE,10310,American,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+502,LATOURETTE GOLF COURSE,STATEN ISLAND,RICHMOND HILL ROAD,10306,American,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+503,DYKER BEACH GOLF (GRILL ROOM),BROOKLYN,86th Street,11228,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+504,DYKER BEACH GOLF (GRILL ROOM),BROOKLYN,86th Street,11228,American,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+505,COOGAN'S,MANHATTAN,BROADWAY,10032,American,A,"Washington Heights, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+506,TOMMY'S PIZZA,BRONX,EAST TREMONT AVENUE,10465,Pizza,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+507,PARNELL'S PUB,MANHATTAN,EAST   53 STREET,10022,Irish,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+508,PARNELL'S PUB,MANHATTAN,EAST   53 STREET,10022,Irish,B,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+509,LA FE RESTAURANT,BROOKLYN,4 AVENUE,11232,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Градска општина Вождовац, Град Београд, Централна Србија, 11040, Србија","Voždovac, Serbia",44.6711569,20.5029521
+510,OCEAN DRAGON RESTAURANT,MANHATTAN,10 AVENUE,10019,Chinese,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+511,COBBLESTONE PUB,QUEENS,QUEENS BOULEVARD,11375,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+512,O'SULLIVAN'S PUB,BROOKLYN,3 AVENUE,11209,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+513,PIZZA WAGON,BROOKLYN,5 AVENUE,11209,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+514,RUSSIAN TURKISH BATHS,MANHATTAN,EAST   10 STREET,10009,Russian,Z,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+515,RUSSIAN TURKISH BATHS,MANHATTAN,EAST   10 STREET,10009,Russian,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+516,IL TOSCANO RISTORANTE,QUEENS,235 STREET,11363,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+517,GABY'S PIZZA,QUEENS,HILLSIDE AVENUE,11423,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+518,VERDI RESTAURANT,QUEENS,CROSS ISLAND PARKWAY,11357,Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+519,THE CORNELIA STREET CAFE,MANHATTAN,CORNELIA STREET,10014,Californian,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+520,THE CORNELIA STREET CAFE,MANHATTAN,CORNELIA STREET,10014,Californian,B,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+521,THE CORNELIA STREET CAFE,MANHATTAN,CORNELIA STREET,10014,Californian,P,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+522,LE BERNARDIN,MANHATTAN,W 51ST ST,10019,French,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+523,THE GROTTO,MANHATTAN,NEW STREET,10004,Pizza,A,"新竹縣, 臺灣省, Taiwan","Hsinchu County, Taiwan",24.8387226,121.0177246
+524,BRANDY'S PIANO BAR,MANHATTAN,EAST   84 STREET,10028,American,B,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+525,BRANDY'S PIANO BAR,MANHATTAN,EAST   84 STREET,10028,American,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+526,REAL MADRID RESTAURANT,STATEN ISLAND,FOREST AVENUE,10303,Spanish,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+527,REAL MADRID RESTAURANT,STATEN ISLAND,FOREST AVENUE,10303,Spanish,B,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+528,CANLON'S RESTAURANT,STATEN ISLAND,NORTH RAILROAD AVENUE,10306,Italian,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+529,COUSIN JOHN'S CAFE AND BAKERY,BROOKLYN,7 AVENUE,11217,Bakery,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+530,LAST STOP (AI & JI) RESTAURANT,BRONX,BROADWAY,10471,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+531,RUSSIAN SAMOVAR,MANHATTAN,WEST   52 STREET,10019,Russian,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+532,PIZZA D'ORO,STATEN ISLAND,VICTORY BOULEVARD,10314,Pizza,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+533,MCDONALD'S,BROOKLYN,PENNSYLVANIA AVENUE,11207,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+534,PHIL & SONS RESTAURANT & PIZZERIA,QUEENS,MAIN STREET,11355,Pizza/Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+535,PHIL & SONS RESTAURANT & PIZZERIA,QUEENS,MAIN STREET,11355,Pizza/Italian,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+536,LA MELA RESTAURANT,MANHATTAN,MULBERRY STREET,10013,Italian,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+537,PJ MORANS,MANHATTAN,EAST   48 STREET,10017,Irish,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+538,OMEGA COFFEE SHOP,QUEENS,32 AVENUE,11361,American,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+539,FRIEND OF A FARMER,MANHATTAN,IRVING PLACE,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+540,FRIEND OF A FARMER,MANHATTAN,IRVING PLACE,10003,American,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+541,DREAM PIZZA,QUEENS,JUNCTION BOULEVARD,11368,Pizza,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+542,IRENE'S PLACE,BROOKLYN,MANHATTAN AVENUE,11222,Polish,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+543,KANES DELI DINER,QUEENS,COLLEGE POINT BOULEVARD,11355,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+544,VESELKA RESTAURANT,MANHATTAN,SECOND AVENUE,10003,Eastern European,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+545,VESELKA RESTAURANT,MANHATTAN,SECOND AVENUE,10003,Eastern European,P,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+546,WHITE CASTLE,BROOKLYN,PENNSYLVANIA AVENUE,11207,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+547,J & R PIZZA,BROOKLYN,KINGS HIGHWAY,11229,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+548,CHEZ JOSEPHINE,MANHATTAN,W 42ND ST,10036,French,B,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+549,CHEZ JOSEPHINE,MANHATTAN,W 42ND ST,10036,French,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+550,"DUNKIN', BASKIN ROBBINS",QUEENS,HILLSIDE AVENUE,11004,Donuts,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+551,VICTORY SWEET SHOP,QUEENS,STEINWAY STREET,11105,Bakery,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+552,VICTORY SWEET SHOP,QUEENS,STEINWAY STREET,11105,Bakery,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+553,CAPPUCCINO CAFE,BROOKLYN,3 AVENUE,11209,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+554,PANGEA RESTAURANT,MANHATTAN,2 AVENUE,10003,Mediterranean,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+555,AUTOMATIC SLIMS,MANHATTAN,WASHINGTON STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+556,CLOISTER CAFE,MANHATTAN,EAST    9 STREET,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+557,JIMBO'S HAMBURGER PLACE,MANHATTAN,FIRST AVENUE,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+558,200 FIFTH AVENUE RESTAURANT & SPORTS BAR,BROOKLYN,5 AVENUE,11217,American,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+559,200 FIFTH AVENUE RESTAURANT & SPORTS BAR,BROOKLYN,5 AVENUE,11217,American,B,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+560,LATTANZI,MANHATTAN,WEST   46 STREET,10036,Italian,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+561,LATTANZI,MANHATTAN,WEST   46 STREET,10036,Italian,B,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+562,PIZZA GARDEN,QUEENS,NORTHERN BOULEVARD,11358,Pizza,A,"Östermalm, Östermalms stadsdelsområde, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Östermalm, Stockholm, Sweden",59.3376963,18.0900386
+563,ISLAND,MANHATTAN,MADISON AVENUE,10128,Seafood,A,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+564,EASTWOOD MANOR,BRONX,EASTCHESTER ROAD,10469,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+565,SALUMERIA BEILLESE/ BIRICCHINO REST,MANHATTAN,8 AVENUE,10001,Italian,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+566,SALUMERIA BEILLESE/ BIRICCHINO REST,MANHATTAN,8 AVENUE,10001,Italian,P,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+567,ACADEMY RESTAURAUNT,BROOKLYN,LAFAYETTE AVENUE,11217,American,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+568,PARK PLAZA RESTAURANT,BROOKLYN,CADMAN PLAZA WEST,11201,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+569,SAM'S PLACE,MANHATTAN,EAST   39 STREET,10016,Italian,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+570,RAY'S PIZZA,MANHATTAN,7 AVENUE,10019,Pizza,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+571,HUNTER'S STEAK & ALE HOUSE,BROOKLYN,FOURTH AVENUE,11209,Steak,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+572,LJUBO'S PIZZERIA,BRONX,WESTCHESTER SQUARE,10461,Pizza/Italian,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+573,DAKOTA DINER,STATEN ISLAND,RICHMOND AVENUE,10314,American,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+574,PRIMOLA RESTAURANT,MANHATTAN,SECOND AVENUE,10065,Italian,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+575,ARIRANG HIBACHI STEAK HOUSE,STATEN ISLAND,NELSON AVENUE,10308,Japanese,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+576,COUNTRY DONUTS,STATEN ISLAND,AMBOY ROAD,10312,Donuts,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+577,JACKS FIRE DEPARTMENT,QUEENS,SKILLMAN AVENUE,11104,American,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+578,JACKS FIRE DEPARTMENT,QUEENS,SKILLMAN AVENUE,11104,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+579,VENICE PIZZA,BRONX,UNIONPORT ROAD,10462,Pizza,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+580,PIZZA PLUS,BROOKLYN,SEVENTH AVENUE,11215,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+581,NILES RESTAURANT,MANHATTAN,7 AVENUE,10001,American,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+582,TASTY'S,QUEENS,MYRTLE AVENUE,11385,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+583,TASTY'S,QUEENS,MYRTLE AVENUE,11385,American,B,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+584,OAKLAND CAFETERIA/QUEENSBOROUGH COMMUNITY COLLEGE,QUEENS,56 AVENUE,11364,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+585,Q.B.COMM.COLLEGE-MAIN KITCHEN/TIGER BITES SECTION,QUEENS,56 AVENUE,11364,American,Z,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+586,Q.B.COMM.COLLEGE-MAIN KITCHEN/TIGER BITES SECTION,QUEENS,56 AVENUE,11364,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+587,NEW YORK UNIVERSITY - LAW SCHOOL,MANHATTAN,WEST THIRD STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+588,ERIN'S ISLE,QUEENS,CROSS ISLAND PARKWAY,11357,Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+589,WESTSIDE RESTAURANT,MANHATTAN,BROADWAY,10023,American,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+590,SAL AND CARMINE PIZZA,MANHATTAN,BROADWAY,10025,Pizza,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+591,SAL AND CARMINE PIZZA,MANHATTAN,BROADWAY,10025,Pizza,P,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+592,CUBBYHOLE,MANHATTAN,WEST   12 STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+593,WHITE CASTLE,QUEENS,NORTHERN BOULEVARD,11361,Hamburgers,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+594,PERIYALI,MANHATTAN,WEST   20 STREET,10011,Greek,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+595,CLUB METROPOLITAN,MANHATTAN,WEST   57 STREET,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+596,FRANK'S SOUP BOWL,BRONX,BRONXWOOD AVENUE,10469,Caribbean,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+597,COPPER KETTLE,QUEENS,SKILLMAN AVENUE,11377,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+598,SANREMO PIZZA,QUEENS,MYRTLE AVENUE,11385,Pizza,Z,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+599,SANREMO PIZZA,QUEENS,MYRTLE AVENUE,11385,Pizza,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+600,ARNO RISTORANTE,MANHATTAN,WEST   38 STREET,10018,Italian,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+601,SCIENCE CAFE (QUEENSBOROUGH  COMMUNITY COLLEGE),QUEENS,56 AVENUE,11364,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+602,WHITE CASTLE,BROOKLYN,ATLANTIC AVENUE,11208,Hamburgers,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+603,LUPE'S EAST L.A. KITCHEN,MANHATTAN,AVENUE OF THE AMERICAS,10013,Mexican,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+604,DUE,MANHATTAN,THIRD AVENUE,10075,Italian,A,"Upper East Side, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+605,LA CASA DEL POLLO RESTAURANT,QUEENS,ROOSEVELT AVENUE,11372,Chicken,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+606,WHITE CASTLE,BRONX,BRUCKNER BOULEVARD,10472,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+607,DA UMBERTO RESTAURANT,MANHATTAN,WEST   17 STREET,10011,Italian,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+608,WHITE CASTLE,BRONX,EAST FORDHAM ROAD,10458,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+609,FLATS FIX / TACO Y TEQUILA BAR,MANHATTAN,EAST   23 STREET,10010,Mexican,A,"嘉義縣, 臺灣省, TW","Chiayi County, Taiwan",23.4518428,120.2554615
+610,FLATS FIX / TACO Y TEQUILA BAR,MANHATTAN,EAST   23 STREET,10010,Mexican,B,"嘉義縣, 臺灣省, TW","Chiayi County, Taiwan",23.4518428,120.2554615
+611,JIMMY MAX RESTAURANT,STATEN ISLAND,WATCHOGUE ROAD,10314,American,C,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+612,JIMMY MAX RESTAURANT,STATEN ISLAND,WATCHOGUE ROAD,10314,American,B,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+613,PECULIAR PUB,MANHATTAN,BLEECKER STREET,10012,American,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+614,CAFE LALO,MANHATTAN,WEST   83 STREET,10024,CafÃ©/Coffee/Tea,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+615,CAFE LALO,MANHATTAN,WEST   83 STREET,10024,CafÃ©/Coffee/Tea,B,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+616,ARTURO'S PIZZA,BRONX,BROADWAY,10463,Pizza,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+617,WALNUT BUS STOP,BRONX,EAST  134 STREET,10454,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+618,ROSEBANK TAVERN,STATEN ISLAND,BAY STREET,10305,American,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+619,ROSEBANK TAVERN,STATEN ISLAND,BAY STREET,10305,American,B,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+620,TRATTORIA DELLA ARTE,MANHATTAN,7 AVENUE,10106,Italian,A,"Santo Domingo De Guzmán, Distrito Nacional, R.D.","Distrito Nacional, Santo Domingo, Dominican Republic",18.4860575,-69.93121169999999
+621,GREEN PAVILION RESTAURANT & SPORTS LOUNGE,BROOKLYN,18 AVENUE,11218,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+622,GREEN PAVILION RESTAURANT & SPORTS LOUNGE,BROOKLYN,18 AVENUE,11218,American,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+623,GREEN PAVILION RESTAURANT & SPORTS LOUNGE,BROOKLYN,18 AVENUE,11218,American,P,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+624,WESTWAY DINER,MANHATTAN,9 AVENUE,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+625,WESTWAY DINER,MANHATTAN,9 AVENUE,10036,American,C,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+626,T.G.I. FRIDAY'S,MANHATTAN,BROADWAY,10006,American,A,"Financial District, Manhattan Community Board 1, Manhattan, New York County, NYC, New York, USA","100 Gold St # 2, New York, NY 10038, USA",40.7102606,-74.0035348
+627,WENDY'S,BRONX,WESTCHESTER AVENUE,10462,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+628,MASAWA,MANHATTAN,AMSTERDAM AVENUE,10027,Ethiopian,A,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+629,MASAWA,MANHATTAN,AMSTERDAM AVENUE,10027,Ethiopian,B,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+630,SOB's,MANHATTAN,VARICK STREET,10014,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+631,WALKER'S RESTAURANT,MANHATTAN,NORTH MOORE STREET,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+632,HOLLAND BAR,MANHATTAN,9 AVENUE,10018,American,C,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+633,HOLLAND BAR,MANHATTAN,9 AVENUE,10018,American,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+634,LUCKY PIZZA,QUEENS,BRIDGE PLAZA SOUTH,11101,Pizza,A,"Dolní Měcholupy, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 11101, Česko","109 00 Prague-Dolní Měcholupy, Czechia",50.059009,14.558624
+635,LUCKY PIZZA,QUEENS,BRIDGE PLAZA SOUTH,11101,Pizza,P,"Dolní Měcholupy, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 11101, Česko","109 00 Prague-Dolní Měcholupy, Czechia",50.059009,14.558624
+636,THE PIZZA PLACE,BRONX,METROPOLITAN AVENUE,10462,Pizza,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+637,AMNON KOSHER PIZZA,BROOKLYN,13 AVENUE,11219,Jewish/Kosher,Z,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+638,AMNON KOSHER PIZZA,BROOKLYN,13 AVENUE,11219,Jewish/Kosher,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+639,AMNON KOSHER PIZZA,BROOKLYN,13 AVENUE,11219,Jewish/Kosher,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+640,WHITE CASTLE,BRONX,BOSTON ROAD,10466,Hamburgers,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+641,T.G.I. FRIDAY'S,MANHATTAN,5 AVENUE,10020,American,A,"嘉義市, 臺灣省, TW","Chiayi City, Taiwan 600",23.4800751,120.4491113
+642,COWGIRL HALL OF FAME,MANHATTAN,HUDSON STREET,10014,Tex-Mex,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+643,LEE'S VILLA CHINESE RESTAURANT,BROOKLYN,LAWRENCE STREET,11201,Chinese,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+644,FAMOUS FAMIGLIA PIZZERIA,MANHATTAN,BROADWAY,10025,Pizza,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+645,DIVE BAR,MANHATTAN,AMSTERDAM AVENUE,10025,American,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+646,GLENDALE PIZZA,QUEENS,MYRTLE AVENUE,11385,Pizza,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+647,THE CORNELL CENTER OF NEW YORK,MANHATTAN,EAST   44 STREET,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+648,QUEEN BEE'S TAVERN,BROOKLYN,CHURCH AVENUE,11226,American,A,"Naujosios Vilnios seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva","Naujoji Vilnia eldership, Vilnius, Lithuania",54.6834271,25.3847759
+649,NECTAR OF 82ND STREET,MANHATTAN,MADISON AVENUE,10028,American,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+650,2A,MANHATTAN,AVENUE A,10009,American,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+651,SETTE MEZZO,MANHATTAN,LEXINGTON AVENUE,10021,Italian,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+652,TERESA'S RESTURANT,BROOKLYN,MONTAGUE STREET,11201,Polish,Z,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+653,TERESA'S RESTURANT,BROOKLYN,MONTAGUE STREET,11201,Polish,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+654,TERESA'S RESTURANT,BROOKLYN,MONTAGUE STREET,11201,Polish,P,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+655,YAMA JAPANESE RESTAURANT',MANHATTAN,EAST   17 STREET,10003,Japanese,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+656,YAMA JAPANESE RESTAURANT',MANHATTAN,EAST   17 STREET,10003,Japanese,C,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+657,YAMA JAPANESE RESTAURANT',MANHATTAN,EAST   17 STREET,10003,Japanese,P,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+658,YAMA JAPANESE RESTAURANT',MANHATTAN,EAST   17 STREET,10003,Japanese,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+659,CHADWICK'S,BROOKLYN,3 AVENUE,11209,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+660,DALLAS BBQ,MANHATTAN,SECOND AVENUE,10003,Barbecue,Z,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+661,DALLAS BBQ,MANHATTAN,SECOND AVENUE,10003,Barbecue,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+662,LA RIVISTA RESTAURANT,MANHATTAN,WEST   46 STREET,10036,Italian,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+663,LA RIVISTA RESTAURANT,MANHATTAN,WEST   46 STREET,10036,Italian,C,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+664,EL CASTILLO DE JAGUA REST,MANHATTAN,RIVINGTON STREET,10002,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"宜蘭縣, 臺灣省, TW","Yilan County, Taiwan",24.7021073,121.7377502
+665,SAKEBAR DECIBEL,MANHATTAN,EAST    9 STREET,10003,Japanese,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+666,BAGEL CAFE,BRONX,BARTOW AVE,10475,Delicatessen,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+667,BAGEL CAFE,BRONX,BARTOW AVE,10475,Delicatessen,B,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+668,SACCO PIZZA,MANHATTAN,9 AVENUE,10019,Pizza,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+669,SAC'S PIZZA PLACE,QUEENS,BROADWAY,11106,Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+670,RIVOLI PIZZA RESTAURANT,MANHATTAN,7 AVENUE SOUTH,10014,Pizza,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+671,RIVOLI PIZZA RESTAURANT,MANHATTAN,7 AVENUE SOUTH,10014,Pizza,B,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+672,ROYAL PIZZA,BROOKLYN,PENNSYLVANIA AVENUE,11207,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+673,DA TOMMASSO,MANHATTAN,EIGHTH AVENUE,10019,Italian,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+674,DA TOMMASSO,MANHATTAN,EIGHTH AVENUE,10019,Italian,P,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+675,TOM'S RESTAURANT,MANHATTAN,BROADWAY,10025,American,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+676,TOWNHOUSE OF NY,MANHATTAN,EAST   58 STREET,10022,American,B,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+677,TOWNHOUSE OF NY,MANHATTAN,EAST   58 STREET,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+678,DALLAS BBQ,MANHATTAN,3 AVENUE,10021,Barbecue,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+679,VILLA MONTE RESTAURANT & PIZZERIA,STATEN ISLAND,AMBOY ROAD,10307,Pizza/Italian,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+680,ROSA'S PIZZA,QUEENS,69 STREET,11378,Pizza,Z,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+681,ROSA'S PIZZA,QUEENS,69 STREET,11378,Pizza,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+682,ROSA'S PIZZA,QUEENS,69 STREET,11378,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+683,ROSA'S PIZZA,QUEENS,69 STREET,11378,Pizza,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+684,GIANDO,BROOKLYN,KENT AVENUE,11249,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+685,CHAMP GOURMET,MANHATTAN,BROAD STREET,10004,American,A,"新竹縣, 臺灣省, Taiwan","Hsinchu County, Taiwan",24.8387226,121.0177246
+686,CHAMP GOURMET,MANHATTAN,BROAD STREET,10004,American,B,"新竹縣, 臺灣省, Taiwan","Hsinchu County, Taiwan",24.8387226,121.0177246
+687,AUSTIN HOUSE,QUEENS,AUSTIN STREET,11375,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+688,WHARF BAR AND GRILL,QUEENS,BEACH  116 STREET,11694,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+689,CLASSIC COFFEE SHOP,MANHATTAN,HESTER STREET,10002,CafÃ©/Coffee/Tea,A,"宜蘭縣, 臺灣省, TW","Yilan County, Taiwan",24.7021073,121.7377502
+690,QUEEN RESTAURANT,BROOKLYN,COURT STREET,11201,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+691,O G RESTAURANT,QUEENS,LINDEN BOULEVARD,11412,Caribbean,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+692,O G RESTAURANT,QUEENS,LINDEN BOULEVARD,11412,Caribbean,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+693,POMODORO RISTORANTE,MANHATTAN,SPRING STREET,10012,Pizza/Italian,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+694,5 BURRO CAFE,QUEENS,AUSTIN STREET,11375,Mexican,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+695,5 BURRO CAFE,QUEENS,AUSTIN STREET,11375,Mexican,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+696,TRONO DE MEXICO,QUEENS,69 STREET,11377,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+697,CLEOPATRA'S NEEDLE,MANHATTAN,BROADWAY,10025,Middle Eastern,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+698,HAVELI INDIAN RESTAURANT,MANHATTAN,SECOND AVENUE,10003,Indian,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+699,CHO-SEN GARDEN,QUEENS,108 STREET,11375,Jewish/Kosher,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+700,CHO-SEN GARDEN,QUEENS,108 STREET,11375,Jewish/Kosher,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+701,PAPAZZIO RESTAURANT,QUEENS,BELL BOULEVARD,11361,Italian,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+702,VILLA BARONE MANOR,BRONX,THROGS NECK EXPRESSWAY,10465,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+703,THE FAMOUS JIMBO'S HAMBURGER PALACE,MANHATTAN,AMSTERDAM AVENUE,10027,Hamburgers,A,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+704,THE FAMOUS JIMBO'S HAMBURGER PALACE,MANHATTAN,AMSTERDAM AVENUE,10027,Hamburgers,B,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+705,STAGE DOOR DELI,MANHATTAN,VESEY STREET,10007,Delicatessen,A,"彰化縣, 臺灣省, Taiwan","Changhua County, Taiwan",24.0517963,120.5161352
+706,STAGE DOOR DELI,MANHATTAN,VESEY STREET,10007,Delicatessen,B,"彰化縣, 臺灣省, Taiwan","Changhua County, Taiwan",24.0517963,120.5161352
+707,KUM KAU KITCHEN,BROOKLYN,MYRTLE AVENUE,11205,Chinese,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+708,HAN BAT RESTAURANT,MANHATTAN,WEST   35 STREET,10001,Korean,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+709,DENNIS' PLACE,BROOKLYN,PITKIN AVENUE,11212,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+710,WHITE CASTLE,QUEENS,SPRINGFIELD BOULEVARD,11429,Hamburgers,A,"Östermalm, Östermalms stadsdelsområde, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Östermalm, Stockholm, Sweden",59.3376963,18.0900386
+711,CAFE LUNA,STATEN ISLAND,HYLAN BOULEVARD,10305,Italian,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+712,SCOTTY'S DINER,MANHATTAN,LEXINGTON AVENUE,10016,American,Z,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+713,SCOTTY'S DINER,MANHATTAN,LEXINGTON AVENUE,10016,American,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+714,MIRACALI BAKERY,QUEENS,ROOSEVELT AVENUE,11372,Bakery,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+715,DANIEL'S BAGEL,MANHATTAN,THIRD AVENUE,10016,Bagels/Pretzels,B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+716,DANIEL'S BAGEL,MANHATTAN,THIRD AVENUE,10016,Bagels/Pretzels,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+717,KABAB CAFE,QUEENS,STEINWAY STREET,11103,Egyptian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+718,LUKE'S BAR & GRILL,MANHATTAN,THIRD AVENUE,10075,American,B,"Upper East Side, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+719,LUKE'S BAR & GRILL,MANHATTAN,THIRD AVENUE,10075,American,A,"Upper East Side, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+720,A & S PIZZERIA,STATEN ISLAND,STUYVESANT PLACE,10301,Pizza/Italian,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+721,A & S PIZZERIA,STATEN ISLAND,STUYVESANT PLACE,10301,Pizza/Italian,B,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+722,BELAIRE CAFE,MANHATTAN,EAST   71 STREET,10021,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+723,LAZZARAS PIZZA CAFE,MANHATTAN,WEST   38 STREET,10018,Pizza,Z,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+724,LAZZARAS PIZZA CAFE,MANHATTAN,WEST   38 STREET,10018,Pizza,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+725,LITTLE PIE COMPANY,MANHATTAN,WEST   43 STREET,10036,Bakery,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+726,MALACHY'S,MANHATTAN,WEST   72 STREET,10023,Irish,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+727,GROTTO AZZURA PIZZERIA,BROOKLYN,21 AVENUE,11214,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+728,SYBIL'S BAKERY,QUEENS,LIBERTY AVENUE,11419,Caribbean,A,"Östermalms stadsdelsområde, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Östermalm, Stockholm, Sweden",59.3376963,18.0900386
+729,RICHER'S BAKERY & CAFE,QUEENS,HORACE HARDING EXPRESSWAY,11362,Bakery,Z,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+730,RICHER'S BAKERY & CAFE,QUEENS,HORACE HARDING EXPRESSWAY,11362,Bakery,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+731,RICHER'S BAKERY & CAFE,QUEENS,HORACE HARDING EXPRESSWAY,11362,Bakery,C,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+732,LINA RESTAURANT,MANHATTAN,WEST  207 STREET,10034,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Inwood, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, 10034, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+733,LINA RESTAURANT,MANHATTAN,WEST  207 STREET,10034,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"Inwood, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, 10034, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+734,BAR ASSOCIATION OF THE CITY OF NY KITCHEN,MANHATTAN,WEST   44 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+735,BAY RIDGE MANOR CATERING,BROOKLYN,76 STREET,11209,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+736,3 GUYS,MANHATTAN,MADISON AVENUE,10029,American,A,"East Harlem, Manhattan Community Board 11, Manhattan, New York County, NYC, New York, USA","1664 Park Ave, New York, NY 10035, USA",40.80029760000001,-73.9428147
+737,VACCARO'S PIZZERIA & TRATTORIA,QUEENS,LITTLE NECK PARKWAY,11001,Pizza/Italian,Z,,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488
+738,VACCARO'S PIZZERIA & TRATTORIA,QUEENS,LITTLE NECK PARKWAY,11001,Pizza/Italian,A,,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488
+739,THE BEEKMAN,MANHATTAN,BEEKMAN STREET,10038,Irish,A,"Financial District, Manhattan Community Board 1, Manhattan, New York County, NYC, New York, USA","100 Gold St # 2, New York, NY 10038, USA",40.7102606,-74.0035348
+740,PEKING RESTAURANT,QUEENS,WOODSIDE AVENUE,11377,Chinese,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+741,TEA AND SYMPATHY,MANHATTAN,GREENWICH AVENUE,10011,English,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+742,COLLADO RESTAURANT,BROOKLYN,BROADWAY,11221,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+743,TAKAHACHI RESTAURANT,MANHATTAN,AVENUE A,10009,Japanese,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+744,MCDONALD'S,BRONX,BRUCKNER BOULEVARD,10454,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+745,ORSO,MANHATTAN,WEST   46 STREET,10036,Italian,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+746,H & H MIDTOWN BAGELS EAST,MANHATTAN,2 AVENUE,10028,Bagels/Pretzels,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+747,H & H MIDTOWN BAGELS EAST,MANHATTAN,2 AVENUE,10028,Bagels/Pretzels,B,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+748,WHITE CASTLE,QUEENS,NORTHERN BOULEVARD,11372,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+749,LILY'S BAR @ ROGER SMITH HOTEL,MANHATTAN,LEXINGTON AVENUE,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+750,IHOP,QUEENS,ROCKAWAY BOULEVARD,11422,Pancakes/Waffles,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+751,HILLSIDE SWIMMING CLUB,STATEN ISLAND,SIGNS ROAD,10314,American,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+752,LA STRADA RESTAURANT,STATEN ISLAND,NEW DORP LANE,10306,Italian,A,"Richmond County, NYC, New York, USA","Staten Island, NY, USA",40.5795317,-74.1502007
+753,THE NIPPON CLUB,MANHATTAN,WEST   57 STREET,10019,Japanese,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+754,SUTTON CAFE RESTAURANT,MANHATTAN,FIRST AVENUE,10022,American,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+755,WALTER'S BAR,MANHATTAN,8 AVENUE,10001,Other,A,"Chelsea, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+756,SALVATORE AND LLOYD'S PIZZA,STATEN ISLAND,RICHMOND AVENUE,10312,Pizza,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+757,BEYOGLU,MANHATTAN,EAST   81 STREET,10028,Mediterranean,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+758,MCDONALD'S,QUEENS,MAIN STREET,11354,Hamburgers,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+759,CHARLIE'S CORNER RESTAURANT & DELI,BROOKLYN,PARK AVENUE,11205,Spanish,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+760,CAFE BELLA VITA,STATEN ISLAND,HYLAN BOULEVARD,10305,Italian,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+761,ABSOLUTE BAGELS,MANHATTAN,BROADWAY,10025,Bagels/Pretzels,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+762,ABSOLUTE BAGELS,MANHATTAN,BROADWAY,10025,Bagels/Pretzels,P,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+763,B.Q.E. CAFE BILLIARDS,QUEENS,34 AVENUE,11372,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+764,B.Q.E. CAFE BILLIARDS,QUEENS,34 AVENUE,11372,American,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+765,TAL BAGEL,MANHATTAN,EAST   86 STREET,10028,Bagels/Pretzels,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+766,DUNKIN',QUEENS,PARSONS BOULEVARD,11432,Donuts,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+767,TARTINE,MANHATTAN,WEST   11 STREET,10014,French,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+768,LUCYS,MANHATTAN,AVENUE A,10009,American,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+769,DOJO RESTAURANT,MANHATTAN,WEST 4 STREET,10012,Japanese,B,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+770,DOJO RESTAURANT,MANHATTAN,WEST 4 STREET,10012,Japanese,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+771,DOJO RESTAURANT,MANHATTAN,WEST 4 STREET,10012,Japanese,P,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+772,GABRIEL'S BAR & RESTAURANT,MANHATTAN,WEST   60 STREET,10023,Italian,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+773,NUEVA VILLA CHINA RESTAURANT,QUEENS,103 STREET,11368,Chinese,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+774,NUEVA VILLA CHINA RESTAURANT,QUEENS,103 STREET,11368,Chinese,B,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+775,JAIYA THAI ORIENTAL RESTAURANT,MANHATTAN,THIRD AVENUE,10016,Thai,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+776,JAIYA THAI ORIENTAL RESTAURANT,MANHATTAN,THIRD AVENUE,10016,Thai,B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+777,BERGEN BEACH CAFE,BROOKLYN,AVENUE U,11234,American,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+778,BERGEN BEACH CAFE,BROOKLYN,AVENUE U,11234,American,C,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+779,EL CANTINERO,MANHATTAN,UNIVERSITY PLACE,10003,Mexican,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+780,EL CANTINERO,MANHATTAN,UNIVERSITY PLACE,10003,Mexican,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+781,MOLLY'S,MANHATTAN,3 AVENUE,10010,Irish,A,"嘉義縣, 臺灣省, TW","Chiayi County, Taiwan",23.4518428,120.2554615
+782,AMELIA'S DINER,MANHATTAN,VARICK STREET,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+783,NATIONAL RESTAURANT & CATERING,BROOKLYN,BRIGHTON BEACH AVE,11235,Russian,Z,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+784,NATIONAL RESTAURANT & CATERING,BROOKLYN,BRIGHTON BEACH AVE,11235,Russian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+785,JACKSON HOUSE RESTAURANT,QUEENS,37 AVENUE,11372,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+786,METROSTAR CAFE,BROOKLYN,JAY STREET,11201,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+787,SCALINATELLA RESTAURANT,MANHATTAN,EAST   61 STREET,10065,Italian,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+788,FRIEND'S TAVERN,QUEENS,ROOSEVELT AVENUE,11372,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+789,RINCON SALVADORENO RESTAURANT,QUEENS,149 STREET,11435,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+790,RINCON SALVADORENO RESTAURANT,QUEENS,149 STREET,11435,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+791,LA NUEVA VICTORIA RESTAURANT,MANHATTAN,BROADWAY,10025,Chinese/Cuban,B,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+792,LA NUEVA VICTORIA RESTAURANT,MANHATTAN,BROADWAY,10025,Chinese/Cuban,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+793,AMSTERDAM BILLIARDS,MANHATTAN,4 AVENUE,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+794,BUDDY'S BURRITO & TACO BAR,BROOKLYN,COURT STREET,11231,Tex-Mex,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+795,BUDDY'S BURRITO & TACO BAR,BROOKLYN,COURT STREET,11231,Tex-Mex,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+796,DEMARCHELIER RESTAURANT,MANHATTAN,EAST   86 STREET,10028,French,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+797,E.J LUNCHEONETTE,MANHATTAN,THIRD AVENUE,10021,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+798,COURT SQUARE DINER,QUEENS,23 STREET,11101,American,A,"Dolní Měcholupy, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 11101, Česko","109 00 Prague-Dolní Měcholupy, Czechia",50.059009,14.558624
+799,V & S PIZZERIA OF SHEAPSHEAD BAY,BROOKLYN,EMMONS AVENUE,11235,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+800,DAVIS POLK DINING ROOM,MANHATTAN,LEXINGTON AVENUE,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+801,BELLA NAPOLI,MANHATTAN,MADISON AVENUE,10016,Pizza/Italian,B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+802,BELLA NAPOLI,MANHATTAN,MADISON AVENUE,10016,Pizza/Italian,C,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+803,BELLA NAPOLI,MANHATTAN,MADISON AVENUE,10016,Pizza/Italian,P,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+804,BELLA NAPOLI,MANHATTAN,MADISON AVENUE,10016,Pizza/Italian,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+805,DOWN THE HATCH,MANHATTAN,WEST    4 STREET,10014,American,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+806,J.J. BUBBLES,BROOKLYN,THIRD AVENUE,11209,"Bottled beverages, including water, sodas, juices, etc.",A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+807,J.J. BUBBLES,BROOKLYN,THIRD AVENUE,11209,"Bottled beverages, including water, sodas, juices, etc.",P,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+808,FITZGERALD'S PUB,MANHATTAN,THIRD AVENUE,10010,American,A,"嘉義縣, 臺灣省, TW","Chiayi County, Taiwan",23.4518428,120.2554615
+809,FAROS RESTAURANT,BROOKLYN,CHURCH AVENUE,11218,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+810,GUN POST LANES SNACK BAR,BRONX,EAST GUN HILL ROAD,10469,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+811,PASTA LOVERS TRATTORIA,MANHATTAN,WEST   49 STREET,10019,Italian,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+812,DON GIOVANNI RESTAURANT,MANHATTAN,10 AVENUE,10011,Italian,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+813,LOS TOLDOS RESTAURANT,QUEENS,NORTHERN BOULEVARD,11372,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+814,EL MOLINO ROJO RESTAURANT,BRONX,EAST  161 STREET,10451,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+815,EL MOLINO ROJO RESTAURANT,BRONX,EAST  161 STREET,10451,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+816,SHABU TATSU,MANHATTAN,EAST   10 STREET,10003,Japanese,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+817,TRIBECA GRILL,MANHATTAN,GREENWICH STREET,10013,American,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+818,POPEYES,MANHATTAN,WEST  125 STREET,10027,Chicken,A,"Harlem, Manhattan Community Board 10, Manhattan, New York County, NYC, New York, USA","215 W 125th St #4, New York, NY 10027, USA",40.8096656,-73.94905779999999
+819,C & B LUNCHEONETTE,QUEENS,WYCKOFF AVENUE,11385,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+820,SAN PIETRO,MANHATTAN,EAST   54 STREET,10022,Italian,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+821,SAN PIETRO,MANHATTAN,EAST   54 STREET,10022,Italian,P,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+822,INDO CHINE,MANHATTAN,LAFAYETTE STREET,10003,Asian,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+823,DUNKIN',QUEENS,MYRTLE AVENUE,11385,Donuts,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+824,GLEN PATRICK'S PUB,QUEENS,65 PLACE,11378,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+825,MULDOON'S IRISH PUB & RESTAURANT,MANHATTAN,3 AVENUE,10017,Irish,B,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+826,MULDOON'S IRISH PUB & RESTAURANT,MANHATTAN,3 AVENUE,10017,Irish,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+827,GRANDSTAND TAVERN,QUEENS,GRAND AVENUE,11373,Irish,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+828,GRANDSTAND TAVERN,QUEENS,GRAND AVENUE,11373,Irish,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+829,TONY'S PIZZA II,BROOKLYN,RUTLAND ROAD,11212,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+830,TONY'S PIZZA II,BROOKLYN,RUTLAND ROAD,11212,Pizza/Italian,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+831,MANETTA'S RISTORANTE,QUEENS,JACKSON AVENUE,11101,Italian,A,"Dolní Měcholupy, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 11101, Česko","109 00 Prague-Dolní Měcholupy, Czechia",50.059009,14.558624
+832,MANETTA'S RISTORANTE,QUEENS,JACKSON AVENUE,11101,Italian,C,"Dolní Měcholupy, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 11101, Česko","109 00 Prague-Dolní Měcholupy, Czechia",50.059009,14.558624
+833,NIAGARA/ LOVERS OF TODAY/ SISTER MIDNIGHT,MANHATTAN,AVENUE A,10009,American,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+834,SALVI RESTAURANT,BROOKLYN,QUENTIN ROAD,11234,Italian,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+835,TIBBETT DINER,BRONX,TIBBETT AVE,10463,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+836,WHITE CASTLE,QUEENS,HILLSIDE AVENUE,11432,Hamburgers,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+837,GARDEN OF EAT-IN,BROOKLYN,AVENUE J,11230,Jewish/Kosher,A,"Chalabre, Avenue Auguste Cathala, Ségovent, Chalabre, Limoux, Aude, Occitanie, France métropolitaine, 11230, France","Avenue Auguste Cathala, 11230 Chalabre, France",42.9841172,2.0072292
+838,GARDEN OF EAT-IN,BROOKLYN,AVENUE J,11230,Jewish/Kosher,C,"Chalabre, Avenue Auguste Cathala, Ségovent, Chalabre, Limoux, Aude, Occitanie, France métropolitaine, 11230, France","Avenue Auguste Cathala, 11230 Chalabre, France",42.9841172,2.0072292
+839,GARDEN OF EAT-IN,BROOKLYN,AVENUE J,11230,Jewish/Kosher,B,"Chalabre, Avenue Auguste Cathala, Ségovent, Chalabre, Limoux, Aude, Occitanie, France métropolitaine, 11230, France","Avenue Auguste Cathala, 11230 Chalabre, France",42.9841172,2.0072292
+840,JACKSON HOLE,QUEENS,ASTORIA BOULEVARD,11370,American,A,"Leucate, Narbonne, Aude, Occitanie, France métropolitaine, 11370, France","11370 Leucate, France",42.892058,3.0275802
+841,CRONIN & PHELAN PUB & RESTAURANT,QUEENS,BROADWAY,11103,Irish,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+842,MOONSTRUCK EAST,MANHATTAN,THIRD AVENUE,10016,American,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+843,MOONSTRUCK EAST,MANHATTAN,THIRD AVENUE,10016,American,P,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+844,PASCALOU,MANHATTAN,MADISON AVENUE,10128,French,A,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+845,PASCALOU,MANHATTAN,MADISON AVENUE,10128,French,B,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+846,TOMMASO RESTAURANT,BROOKLYN,86 STREET,11228,Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+847,TOMMASO RESTAURANT,BROOKLYN,86 STREET,11228,Italian,B,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+848,FRANK'S PIZZA RESTAURANT,BROOKLYN,FLATBUSH AVENUE,11234,Pizza,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+849,ABITINO'S PIZZA,MANHATTAN,2 AVENUE,10016,Pizza,C,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+850,ABITINO'S PIZZA,MANHATTAN,2 AVENUE,10016,Pizza,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+851,ABITINO'S PIZZA,MANHATTAN,2 AVENUE,10016,Pizza,B,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+852,PICCOLO ANGOLO,MANHATTAN,HUDSON STREET,10014,Italian,A,"臺東縣, 臺灣省, TW","Taitung County, Taiwan",22.7972447,121.0713702
+853,BAR SIX,MANHATTAN,6 AVENUE,10011,French,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+854,MATEUS RESTAURANT,QUEENS,JAMAICA AVENUE,11428,Portuguese,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+855,LUIGI'S RESTAURANT,QUEENS,UNION TURNPIKE,11040,Italian,A,"Градска општина Вождовац, 53, Устаничка, Неимар, Градска општина Врачар, Град Београд, Централна Србија, 11000, Србија","Ustanička, Beograd, Serbia",44.78789949999999,20.4769157
+856,MARUMI,MANHATTAN,LA GUARDIA PLACE,10012,Japanese,A,"SoHo, Manhattan Community Board 2, Manhattan, New York County, NYC, New York, 10012, USA","3 Washington Square Village #1A, New York, NY 10012, USA",40.7278058,-73.9979716
+857,MEMBERS DINING ROOM @ THE MET MUSEUM,MANHATTAN,5 AVENUE,10028,American,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+858,THE RESTAURANT,QUEENS,ROCKAWAY BEACH BOULEVARD,11693,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+859,THE END ZONE BAR,QUEENS,14 AVENUE,11357,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+860,FINE & SCHAPIRO,MANHATTAN,WEST   72 STREET,10023,Jewish/Kosher,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+861,FINE & SCHAPIRO,MANHATTAN,WEST   72 STREET,10023,Jewish/Kosher,B,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+862,FINE & SCHAPIRO,MANHATTAN,WEST   72 STREET,10023,Jewish/Kosher,P,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+863,E & L BAKERY & COFFEE SHOP,BRONX,WHITE PLAINS ROAD,10466,Bakery,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+864,CAROLINE'S ON BROADWAY,MANHATTAN,7 AVENUE,10019,American,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+865,WEMBLEY ATHLETIC CLUB,BRONX,EAST  239 STREET,10470,American,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+866,CULLEN'S TAVERN,BRONX,WHITE PLAINS ROAD,10466,American,A,"The Bronx, Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+867,LA ISLA RESTAURANT,BROOKLYN,BROADWAY,11211,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+868,LA ISLA RESTAURANT,BROOKLYN,BROADWAY,11211,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",P,"Борча, Беле Бартока, Нова Борча, Борча, Градска општина Палилула, Град Београд, Централна Србија, 11211, Србија","Bele Bartoka, Borča, Serbia",44.876928,20.4506365
+869,RUSSO'S ON THE BAY,QUEENS,CROSS BAY BOULEVARD,11414,American,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+870,JING FONG RESTAURANT,MANHATTAN,ELIZABETH STREET,10013,Chinese,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+871,JING FONG RESTAURANT,MANHATTAN,ELIZABETH STREET,10013,Chinese,B,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+872,AMERICAN AIRLINES EMPLOYEE CAFETERIA,QUEENS,LA GUARDIA AIRPORT,11369,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+873,BECCO,MANHATTAN,WEST   46 STREET,10036,Italian,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+874,RUDY'S BAR & Grill,MANHATTAN,9 AVENUE,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+875,AUSTINS ALE HOUSE,QUEENS,AUSTIN STREET,11415,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+876,COYOTE UGLY,MANHATTAN,FIRST AVENUE,10003,American,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+877,COYOTE UGLY,MANHATTAN,FIRST AVENUE,10003,American,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+878,PRIMA PASTA & CAFE,QUEENS,CROSSBAY BOULEVARD,11414,Italian,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+879,PRIMA PASTA & CAFE,QUEENS,CROSSBAY BOULEVARD,11414,Italian,B,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+880,GINO'S PIZZERIA RESTAURANT,MANHATTAN,EAST   83 STREET,10028,Pizza,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+881,TONY'S PIZZERIA & RESTAURANT,BROOKLYN,RALPH AVENUE,11236,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+882,THE GRAY MARE,MANHATTAN,2 AVENUE,10003,Irish,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+883,WINCHESTERS PUB,QUEENS,HILLSIDE AVENUE,11427,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+884,CAFE CARDINI,QUEENS,UNION TURNPIKE,11040,Italian,A,"Градска општина Вождовац, 53, Устаничка, Неимар, Градска општина Врачар, Град Београд, Централна Србија, 11000, Србија","Ustanička, Beograd, Serbia",44.78789949999999,20.4769157
+885,T-BONE DINER,QUEENS,QUEENS BOULEVARD,11375,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+886,T-BONE DINER,QUEENS,QUEENS BOULEVARD,11375,American,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+887,SUNRISE COFFEE SHOP,QUEENS,PARSONS BOULEVARD,11355,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+888,MY THREE SONS RESTAURANT,BROOKLYN,FT HAMILTON PARKWAY,11228,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+889,MY THREE SONS RESTAURANT,BROOKLYN,FT HAMILTON PARKWAY,11228,American,P,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+890,CHICKEN DELICIOUS,BROOKLYN,KINGS HIGHWAY,11223,Chicken,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+891,FELIX,MANHATTAN,WEST BROADWAY,10013,French,Z,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+892,FELIX,MANHATTAN,WEST BROADWAY,10013,French,B,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+893,FELIX,MANHATTAN,WEST BROADWAY,10013,French,C,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+894,MIKE'S DONUTS,BROOKLYN,5 AVENUE,11220,Donuts,A,"Lagrasse, Narbonne, Aude, Occitanie, France métropolitaine, 11220, France","11220 Lagrasse, France",43.0915,2.618532
+895,ILDA'S PLACE II,QUEENS,BAXTER AVENUE,11373,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+896,BROADWAY STATION,QUEENS,BROADWAY,11106,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+897,PORTO PRINCE STAR RESTAURANT,QUEENS,LINDEN BOULEVARD,11411,Caribbean,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+898,PORTO PRINCE STAR RESTAURANT,QUEENS,LINDEN BOULEVARD,11411,Caribbean,P,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+899,PORTO PRINCE STAR RESTAURANT,QUEENS,LINDEN BOULEVARD,11411,Caribbean,C,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+900,PORTO PRINCE STAR RESTAURANT,QUEENS,LINDEN BOULEVARD,11411,Caribbean,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+901,WHITE CASTLE,BRONX,EAST TREMONT AVENUE,10461,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+902,ALPHA DONUTS,QUEENS,QUEENS BOULEVARD,11104,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+903,MCDONALD AVENUE DINER,BROOKLYN,MCDONALD AVENUE,11230,American,A,"Chalabre, Avenue Auguste Cathala, Ségovent, Chalabre, Limoux, Aude, Occitanie, France métropolitaine, 11230, France","Avenue Auguste Cathala, 11230 Chalabre, France",42.9841172,2.0072292
+904,COUNTRY DONUTS,STATEN ISLAND,RICHMOND AVENUE,10312,Donuts,A,"Staten Island, Richmond County, NYC, New York, USA","Richmond County, Staten Island, NY, USA",40.5605312,-74.1474846
+905,FRANK'S PLACE,BROOKLYN,SMITH STREET,11231,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+906,ELMHURST FAMOUS PIZZA,QUEENS,BROADWAY,11373,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+907,MCDONALD'S,BRONX,EAST  204 STREET,10467,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+908,OLYMPIC FLAME DINER,MANHATTAN,WEST   60 STREET,10023,American,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+909,CARUSO PIZZERIA & RESTAURANT,BROOKLYN,SMITH STREET,11201,Pizza/Italian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+910,JAVA RESTAURANT,BROOKLYN,7TH AVENUE,11215,Indonesian,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+911,TEQUILLA SUNRISE,QUEENS,BELL BOULEVARD,11361,Mexican,Z,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+912,TEQUILLA SUNRISE,QUEENS,BELL BOULEVARD,11361,Mexican,A,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+913,TEQUILLA SUNRISE,QUEENS,BELL BOULEVARD,11361,Mexican,P,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+914,TEQUILLA SUNRISE,QUEENS,BELL BOULEVARD,11361,Mexican,B,"القاهرة, محافظة القاهرة, مصر","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+915,PIZZA NOSH,BROOKLYN,NOSTRAND AVENUE,11229,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+916,CARIDAD RESTAURANT,MANHATTAN,BROADWAY,10031,Spanish,A,"Hamilton Heights, Manhattan Community Board 9, Manhattan, New York County, NYC, New York, 10031, USA","16 Old Broadway, New York, NY 10027, USA",40.815638,-73.957341
+917,CARIDAD RESTAURANT,MANHATTAN,BROADWAY,10031,Spanish,B,"Hamilton Heights, Manhattan Community Board 9, Manhattan, New York County, NYC, New York, 10031, USA","16 Old Broadway, New York, NY 10027, USA",40.815638,-73.957341
+918,WHITE CASTLE,QUEENS,ROCKAWAY BOULEVARD,11417,Hamburgers,A,"Lasnamäe, Kesklinn, Tallinn, Lasnamäe linnaosa, Tallinn, Harju maakond, 11412, Eesti","Lasnamäe, Tallinn, Estonia",59.4311812,24.7879513
+919,THE STUMBLE INN,MANHATTAN,2 AVENUE,10021,American,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+920,THE STUMBLE INN,MANHATTAN,2 AVENUE,10021,American,C,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, 10021, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+921,ROSA'S PIZZA & PASTA,QUEENS,METROPOLITAN AVENUE,11379,Pizza/Italian,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+922,ROSA'S PIZZA & PASTA,QUEENS,METROPOLITAN AVENUE,11379,Pizza/Italian,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+923,MCDONALD'S,QUEENS,NORTHERN BOULEVARD,11362,Hamburgers,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+924,MCDONALD'S,QUEENS,NORTHERN BOULEVARD,11362,Hamburgers,B,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+925,GOLDEN PIZZA,BRONX,EAST  138 STREET,10454,Pizza,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+926,GOLDEN PIZZA,BRONX,EAST  138 STREET,10454,Pizza,C,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+927,MCDONALD'S,STATEN ISLAND,RICHMOND AVENUE,10314,Hamburgers,A,"Todt Hill, Staten Island, Richmond County, NYC, New York, 10304, USA","Todt Hill, Staten Island, NY, USA",40.5975007,-74.10189749999999
+928,MCDONALD'S,BRONX,WHITE PLAINS ROAD,10467,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+929,JULES BISTRO,MANHATTAN,ST MARKS PLACE,10003,French,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+930,JULES BISTRO,MANHATTAN,ST MARKS PLACE,10003,French,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+931,LA CONTENTA OESTE,MANHATTAN,WEST   11 STREET,10011,Mexican,B,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+932,LA CONTENTA OESTE,MANHATTAN,WEST   11 STREET,10011,Mexican,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+933,SMILER'S DELI,MANHATTAN,MADISON AVENUE,10022,Delicatessen,Z,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+934,SMILER'S DELI,MANHATTAN,MADISON AVENUE,10022,Delicatessen,P,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+935,SMILER'S DELI,MANHATTAN,MADISON AVENUE,10022,Delicatessen,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+936,SMILER'S DELI,MANHATTAN,MADISON AVENUE,10022,Delicatessen,B,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+937,MENDY'S,MANHATTAN,PARK AVENUE,10016,Jewish/Kosher,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+938,CARMINE'S,MANHATTAN,WEST   44 STREET,10036,Italian,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+939,Coney Island Baby,MANHATTAN,AVENUE A,10009,American,A,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+940,Coney Island Baby,MANHATTAN,AVENUE A,10009,American,B,"雲林縣, 臺灣省, TW","Yunlin County, Taiwan",23.7092033,120.4313373
+941,DELMONICO GOURMET,MANHATTAN,LEXINGTON AVENUE,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+942,DELMONICO GOURMET,MANHATTAN,LEXINGTON AVENUE,10017,American,B,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+943,RITMO'S 60,QUEENS,STEINWAY STREET,11103,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+944,DA NICO RESTAURANT,MANHATTAN,MULBERRY STREET,10013,Italian,Z,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+945,DA NICO RESTAURANT,MANHATTAN,MULBERRY STREET,10013,Italian,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+946,LA DINASTIA,MANHATTAN,BROADWAY,10032,Chinese/Cuban,A,"Washington Heights, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+947,LA DINASTIA,MANHATTAN,BROADWAY,10032,Chinese/Cuban,B,"Washington Heights, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+948,LA DINASTIA,MANHATTAN,BROADWAY,10032,Chinese/Cuban,C,"Washington Heights, Manhattan Community Board 12, Manhattan, New York County, NYC, New York, USA","530 W 166th St #1, New York, NY 10032, USA",40.8391902,-73.93962069999999
+949,CAFFE ROMA,MANHATTAN,BROOME STREET,10013,Bakery,A,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+950,CAFFE ROMA,MANHATTAN,BROOME STREET,10013,Bakery,P,"屏東縣, 臺灣省, TW","Pingtung County, Taiwan",22.5519759,120.5487597
+951,CHRISTINA'S RESTAURANT,BROOKLYN,MANHATTAN AVENUE,11222,Polish,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+952,POLLOS A LA BRASA MARIO,QUEENS,ROOSEVELT AVENUE,11372,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+953,POLLOS A LA BRASA MARIO,QUEENS,ROOSEVELT AVENUE,11372,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+954,ESS-A-BAGEL,MANHATTAN,THIRD AVENUE,10022,Bagels/Pretzels,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+955,ESS-A-BAGEL,MANHATTAN,THIRD AVENUE,10022,Bagels/Pretzels,B,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+956,AUCTION HOUSE,MANHATTAN,EAST   89 STREET,10128,American,A,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+957,ROYAL KING'S PIZZA,BROOKLYN,5 AVENUE,11220,Pizza,A,"Lagrasse, Narbonne, Aude, Occitanie, France métropolitaine, 11220, France","11220 Lagrasse, France",43.0915,2.618532
+958,CORNER CAFE AND BAKERY,MANHATTAN,THIRD AVENUE,10128,American,A,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+959,CORNER CAFE AND BAKERY,MANHATTAN,THIRD AVENUE,10128,American,P,"Crocetta, Torino, TO, PIE, Italia","Crocetta, Torino TO, Italy",45.0583636,7.6658272
+960,MR. PHIL'S PIZZA,BROOKLYN,NEW UTRECHT AVE,11228,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+961,TEE DEE'S TAVERN,QUEENS,COOPER AVENUE,11385,Irish,A,"Queens, Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+962,METRO DINER,MANHATTAN,BROADWAY,10025,American,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+963,PUGSLEY PIZZA,BRONX,EAST  191 STREET,10458,Pizza,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+964,MONTEBELLO RESTAURANT,MANHATTAN,EAST   56 STREET,10022,Italian,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+965,MONTEBELLO RESTAURANT,MANHATTAN,EAST   56 STREET,10022,Italian,B,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+966,NEW WAVE CAFE & RESTAURANT,MANHATTAN,BROADWAY,10024,Armenian,A,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+967,NEW WAVE CAFE & RESTAURANT,MANHATTAN,BROADWAY,10024,Armenian,C,"Upper West Side, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+968,MEDITERRANEO,MANHATTAN,2 AVENUE,10065,Italian,Z,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+969,MEDITERRANEO,MANHATTAN,2 AVENUE,10065,Italian,A,"Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+970,POPEYES,QUEENS,JAMAICA AVENUE,11428,Chicken,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+971,PARADISE ALLEY BAR,QUEENS,150 STREET,11355,American,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+972,PARADISE ALLEY BAR,QUEENS,150 STREET,11355,American,B,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+973,FLANNERY'S BAR,MANHATTAN,WEST   14 STREET,10011,American,A,"Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+974,MANHATTAN ESPRESSO,MANHATTAN,EAST   49 STREET,10017,CafÃ©/Coffee/Tea,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+975,SHARMEL CATERERS,QUEENS,EMPIRE AVENUE,11691,Jewish/Kosher,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+976,TOLEDO,MANHATTAN,EAST   36 STREET,10016,Spanish,A,"澎湖縣, 臺灣省, TW","Penghu County, Taiwan",23.5711899,119.5793157
+977,BAGEL BOB'S,MANHATTAN,UNIVERSITY PLACE,10003,Bagels/Pretzels,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+978,FRANKIE BOY'S PIZZA & SALAD,MANHATTAN,BROADWAY,10018,Pizza,B,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+979,FRANKIE BOY'S PIZZA & SALAD,MANHATTAN,BROADWAY,10018,Pizza,A,"新竹市, 臺灣省, TW","Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798
+980,WHITE CASTLE,BRONX,WESTCHESTER AVENUE,10459,Hamburgers,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+981,CAFFE GRAZIE,MANHATTAN,EAST   84 STREET,10028,Italian,A,"Yorkville, Manhattan Community Board 8, Manhattan, New York County, NYC, New York, USA","505 Park Ave #620, New York, NY 10022, USA",40.7629517,-73.96929639999999
+982,"SUGAR HILL RESTAURANT, SUPPER CLUB AND DISCO",BROOKLYN,DEKALB AVENUE,11216,American,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+983,ARIRANG HIBACHI STEAKHOUSE,BROOKLYN,4 AVENUE,11209,Steak,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+984,MCCOY'S PUB,MANHATTAN,9 AVENUE,10019,Irish,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+985,BEN'S KOSHER DELI & RESTAURANT,QUEENS,26 AVENUE,11360,Jewish/Kosher,A,"Villeneuve-les-Corbières, Narbonne, Aude, Occitanie, France métropolitaine, 11360, France","11360 Villeneuve-les-Corbières, France",42.977171,2.777277
+986,LUCIA PIZZA,QUEENS,ROOSEVELT AVENUE,11354,Pizza,A,"Queens County, NYC, New York, USA","Queens, NY, USA",40.7282239,-73.7948516
+987,LE COLONIAL,MANHATTAN,EAST   57 STREET,10022,Asian,A,"Midtown East, Manhattan Community Board 6, Manhattan, New York County, NYC, New York, USA","211 E 43rd St #1404, New York, NY 10017, USA",40.7512663,-73.9731576
+988,CREDIT AGRICOLE-CBI EXECUTIVE ROOM,MANHATTAN,AVENUE OF THE AMERICAS,10019,French,A,"Theater District, Manhattan Community Board 5, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+989,MANHATTAN DINER,MANHATTAN,BROADWAY,10025,American,A,"Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, NYC, New York, USA","250 W 87th St # 2, New York, NY 10024, USA",40.7890699,-73.97654949999999
+990,SHARAKU JAPANESE RESTAURANT,MANHATTAN,STUYVESANT STREET,10003,Japanese,Z,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+991,SHARAKU JAPANESE RESTAURANT,MANHATTAN,STUYVESANT STREET,10003,Japanese,B,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+992,SHARAKU JAPANESE RESTAURANT,MANHATTAN,STUYVESANT STREET,10003,Japanese,C,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+993,SHARAKU JAPANESE RESTAURANT,MANHATTAN,STUYVESANT STREET,10003,Japanese,A,"East Village, Manhattan Community Board 3, Manhattan, New York County, NYC, New York, USA","59 E 4th St, New York, NY 10003, USA",40.727026,-73.9908526
+994,DOMINICK'S BAR & RESTAURANT,BRONX,ARTHUR AVENUE,10458,Italian,A,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+995,DOMINICK'S BAR & RESTAURANT,BRONX,ARTHUR AVENUE,10458,Italian,C,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+996,DOMINICK'S BAR & RESTAURANT,BRONX,ARTHUR AVENUE,10458,Italian,B,"Bronx County, NYC, New York, USA","The Bronx, NY, USA",40.8447819,-73.8648268
+997,LE MIRAGE CAFE,MANHATTAN,WEST   43 STREET,10036,American,A,"Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, NYC, New York, USA","330 W 42nd St #2601, New York, NY 10036, USA",40.7575867,-73.9915613
+998,LA VILLA PIZZERIA,BROOKLYN,AVENUE U,11234,Pizza/Italian,A,"Kungsholmen, Sthlm, Stockholm, Sveriges Landskap, Stockholms län, Svealand, Sverige","Kungsholmen, Stockholm, Sweden",59.3311812,18.0407363
+999,JENTANA'S PIZZA,BROOKLYN,FT HAMILTON PARKWAY,11219,Pizza,A,"BK, Kings County, NYC, New York, USA","20 Skillman Ave, Brooklyn, NY 11211, USA",40.715211,-73.951022
+1000,MORTON'S THE STEAKHOUSE,MANHATTAN,EAST   45 STREET,10017,American,A,"基隆市, 中正區, 基隆市, 臺灣省, 20201, TW","Keelung City, Taiwan",25.1276033,121.7391833
+1001,CROWN FRIED CHICKEN,QUEENS,LIBERTY AVE,11417,Other,Not Yet Graded,"Lasnamäe, Kesklinn, Tallinn, Lasnamäe linnaosa, Tallinn, Harju maakond, 11412, Eesti","Lasnamäe, Tallinn, Estonia",59.4311812,24.7879513

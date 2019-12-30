@@ -19,7 +19,7 @@ For this project I was unable to find the data in the csv format. Some of the da
 The data I was able to use came from https://simplemaps.com/ which had all three of the countries I was working on for this project in csv format. This data was just on the cities within France. Italy and Spain. I did some other additional research on the most popular areas within France, Italy and Spain. Some additional information came from https://en.wikipedia.org/wiki/Main_Page containing specfic serch terms to gather the names of the towns / neighnorhoods for France, Italy and Spain. Additional data which was not in csv format was gather and combine with other excel files in csv format. 
 
 ### Data Cleaning
-Once all the data was collected it was imported into three separte Pandas dataframe one each for the different countries. Some of the countries had the geo spatial coordinates information already within the csv files and others I has to acquire using geolocator within Pandas. Some of the visualizing of the towns / neighborhoods will come from Folium library. The  Foursquare API will be use to explore data on the specfic towns within each country. I will be using k-clustering from machine learning techniques.  
+Once all the data was collected it was imported into three separate Pandas dataframe one each for the different countries. Some of the countries had the geo spatial coordinates information already within the csv files and others I has to acquire using geolocator within Pandas. Some of the visualizing of the towns / neighborhoods will come from Folium library. The  Foursquare API will be use to explore data on the specfic towns within each country. I will be using k-clustering from machine learning techniques.  
 
 
 

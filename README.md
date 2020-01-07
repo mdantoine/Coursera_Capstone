@@ -1,5 +1,5 @@
 # Battle-of-the-Neighborhoods Coursera_Capstone
-This respository is using a Jupyter Noterbook with Python and  Markdown language for a Capstone Project
+This respository is using a Jupyter Notebook with Python and Markdown language for a Capstone Project
 ## Introduction
 
 The battle of the neighborhoods will take place in Europe. The primary purpose of the battle is to show case what each country has to offer to a foreigner or current citizen that wants to open up a business or move to a different part of the country. This work will analyze three different countries in Europe. The countries I have chosen are France, Italy and Spain. I also chose three regions within each of those countries for the battle to take place. In the country of France, Paris with its region Île-de-France, Rome,  Italy and its region Lazio and Madrid, Spain. These are all the capitals of there perspective countries and would give unique data on the surrounds of each peculiar country. All are rich in history and offer unique forms of life styles. Each capital has over 2 million people living within its area. 

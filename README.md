@@ -11,7 +11,7 @@ France, Italy and Spain are famous tourist destinations in the world. All three 
 
 ##### Problem
 
-The towns or neighborhoods where the restaurants are set up determine how well a restaurant will do. The more foot traffic the better chances are the restaurant will be successful. It is viatl that the area be well known throughout the world for its food. This analysis is going to based on which town or neighborhood is the best place to open up a restaurant. 
+The towns or neighborhoods where the restaurants are set up determine how well a restaurant will do. The more foot traffic the better chances are the restaurant will be successful. It is vital that the area be well known throughout the world for its food. This analysis is going to based on which town or neighborhood is the best place to open up a restaurant. 
 
 ## Data acquisition and cleaning
 
